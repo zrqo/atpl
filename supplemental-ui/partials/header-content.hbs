@@ -40,20 +40,21 @@
 <a class="navbar-item" href="https://discord.gg/mQywNCrxRV" target="_blank" title="Join ATPL Network Discord" style="padding: 0;">
   <span class="icon" style="width: 40px; height: 40px; display: inline-block;">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
-      <!-- REMOVED THE RECT ELEMENT HERE so background is transparent -->
       
-      <!-- Changed fill to #FFFFFF (White) for contrast on Red Header -->
+      <!-- CHANGE 1: Use currentColor so it reacts to CSS changes -->
       <text x="20" y="17" 
             font-family="Arial, sans-serif" 
             font-size="10" 
             font-weight="bold" 
-            fill="#FFFFFF" 
+            fill="currentColor" 
             text-anchor="middle">ATPL</text>
+      
+      <!-- CHANGE 2: Use currentColor here too -->
       <text x="20" y="28" 
             font-family="Arial, sans-serif" 
             font-size="8" 
             font-weight="normal" 
-            fill="#FFFFFF" 
+            fill="currentColor" 
             text-anchor="middle">network</text>
     </svg>
   </span>

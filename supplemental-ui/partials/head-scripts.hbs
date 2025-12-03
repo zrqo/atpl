@@ -8,14 +8,17 @@
     --text-dark: #1a1a1a;         /* Standard dark text */
   }
 
-  /* --- 1. NAVBAR (TOP HEADER) --- */
+  /* =========================================
+     1. GLOBAL NAVBAR STYLES (Desktop Defaults)
+     ========================================= */
   .navbar {
     background-color: var(--brand-color);
   }
 
-  /* Top-level links (Home, Products, Services) - MUST be white */
+  /* Default text color for Top Links (Home, Products, Services) is WHITE */
+  /* This looks correct on the Red Desktop Header */
   .navbar-brand .navbar-item,
-  .navbar-end > .navbar-item, 
+  .navbar-end > .navbar-item,
   .navbar-end > .navbar-link {
     color: #FFFFFF;
   }
@@ -25,61 +28,69 @@
     border-color: #FFFFFF;
   }
 
-  /* Top-level HOVER state - Go Dark Red, keep text white */
-
-  /* FIX: Wrap the Heavy Red Hover in a Media Query so it only happens on Desktop */
+  /* =========================================
+     2. DESKTOP SPECIFIC BEHAVIOR (Min-Width 1024px)
+     ========================================= */
   @media screen and (min-width: 1024px) {
-    .navbar-end > .navbar-item:hover, 
+    /* Bold Hover Effect: Dark Red Background, White Text */
+    .navbar-end > .navbar-item:hover,
     .navbar-end > .navbar-link:hover {
       background-color: var(--brand-hover);
       color: #FFFFFF;
-      transition: background-color 0.2s ease; /* Adds the smooth fade you requested */
-    }
-  }
-
-  /* FIX: For Mobile/Narrow screens, use a neutral hover that doesn't flash */
-  @media screen and (max-width: 1023px) {
-    .navbar-end > .navbar-item:hover, 
-    .navbar-end > .navbar-link:hover {
-      background-color: #E6E1D1; /* A neutral dark cream/grey */
-      color: var(--brand-color); /* Keep text orange-red */
       transition: background-color 0.2s ease;
     }
   }
 
-/* --- MOBILE / NARROW SCREEN TWEAKS --- */
+  /* =========================================
+     3. MOBILE / NARROW SCREEN FIXES (Max-Width 1023px)
+     ========================================= */
   @media screen and (max-width: 1023px) {
     
-    /* 1. The main menu container - Set to Deep Cream (Removes White) */
+    /* A. The Main Menu Container - Set to Deep Cream */
     .navbar-menu {
       background-color: var(--bg-deep-cream) !important;
-      padding: 0 !important; /* Remove gaps that might show white */
+      padding: 0 !important;
       box-shadow: none !important;
     }
 
-    /* 2. The Menu Headers (Products, Services) - Richer/Darker Cream, No Grey */
-    .navbar-link {
-      background-color: #E6E1D1 !important; /* Richer Cream */
+    /* B. Fix "Home", "Products", "Services" Links 
+       On Desktop they are White. On Mobile Cream, they MUST be Dark. */
+    .navbar-end > .navbar-item,
+    .navbar-end > .navbar-link {
       color: var(--text-dark) !important;
+      background-color: transparent;
+    }
+
+    /* C. Fix the ATPL Network Icon 
+       Force the icon wrapper to be Red so the "currentColor" SVG sees it. */
+    .navbar-end > .navbar-item .icon {
+       color: var(--brand-color) !important;
+    }
+
+    /* D. Fix the Site Title (Top Left) 
+       This sits on the Red Bar, so it MUST stay WHITE. */
+    .navbar-brand .navbar-item {
+       color: #FFFFFF !important;
+       font-weight: bold;
+    }
+
+    /* E. Menu Headers (The clickable parent links) 
+       Give them a richer cream background to separate them. */
+    .navbar-link {
+      background-color: #E6E1D1 !important; 
       font-weight: bold;
     }
 
-    /* 3. The Menu Items (Home, Product A, etc) - Deep Cream */
-    .navbar-item {
-      background-color: var(--bg-deep-cream) !important;
-      color: var(--text-dark);
-    }
-
-    /* 4. Interaction (Hover/Focus) - Make text Red, Keep background Cream */
+    /* F. Hover/Focus States on Mobile
+       Use a gentle cream hover (not dark red) to stop flickering. */
     .navbar-item:hover, 
     .navbar-link:hover,
     .navbar-item:focus {
-      background-color: #E6E1D1 !important; /* Gentle change */
-      color: var(--brand-color) !important;  /* TEXT TURNS RED */
+      background-color: #E6E1D1 !important; 
+      color: var(--brand-color) !important; /* Text turns red */
     }
 
-    /* 5. Keep the current page RED (Persistence) */
-    /* This ensures if you are ON the page, it stays red in the menu */
+    /* G. Persistence - Keep current page highlighted Red */
     .navbar-item.is-current,
     .navbar-item[aria-current="page"] {
         color: var(--brand-color) !important;
@@ -87,66 +98,61 @@
     }
   }
 
-  /* --- 2. DROPDOWNS (THE POPUPS) --- */
-  /* The container of the dropdown */
+  /* =========================================
+     4. DROPDOWNS (Desktop Popups)
+     ========================================= */
   .navbar-dropdown {
     background-color: var(--bg-cream);
-    border-top: 2px solid var(--brand-hover); /* Optional nice accent */
+    border-top: 2px solid var(--brand-hover);
   }
 
-  /* The ITEMS inside the dropdown - Must be DARK text to be visible */
   .navbar-dropdown .navbar-item {
     color: var(--text-dark);
   }
 
-  /* Dropdown HOVER state - Pale orange background, Dark Red text */
   .navbar-dropdown .navbar-item:hover {
     background-color: #FFEAE6;
     color: var(--brand-color);
   }
 
-  /* --- 3. TOOLBAR (BREADCRUMBS BAR) --- */
-  /* This is the bar immediately below the red header */
+  /* =========================================
+     5. GENERAL PAGE LAYOUT (Toolbar, Sidebar, Content)
+     ========================================= */
+  
+  /* Toolbar (Breadcrumbs bar below header) */
   .toolbar {
     background-color: var(--bg-deep-cream);
-    box-shadow: none; /* optional: removes subtle shadow for flatter look */
-    border-bottom: 1px solid #E6E1D1; /* Subtle divider */
+    box-shadow: none;
+    border-bottom: 1px solid #E6E1D1;
   }
 
-  /* --- 4. SIDEBAR (LEFT NAVIGATION) --- */
-  /* The main container for the left menu */
-  .nav-container {
-    background-color: var(--bg-deep-cream);
-  }
-  
-  /* The internal panel of the menu */
-  .nav-panel-menu {
+  /* Sidebar (Left Navigation) */
+  .nav-container, .nav-panel-menu {
     background-color: var(--bg-deep-cream);
   }
 
-  /* --- 5. MAIN CONTENT BACKGROUND --- */
+  /* Main Content Area */
   body, .doc {
     background-color: var(--bg-cream);
   }
 
-  /* Fix code blocks so they don't look weird on cream */
+  /* Code Blocks */
   .doc pre {
     background-color: #F5F2E8;
   }
-/* --- 6. FOOTER (Updated) --- */
-  /* We use "footer.footer" to match the default UI's specificity */
-  /* We use "!important" to force the override */
+
+  /* =========================================
+     6. FOOTER STYLES
+     ========================================= */
   footer.footer {
-    background-color: var(--bg-deep-cream) !important; 
+    background-color: var(--bg-deep-cream) !important;
     color: #1a1a1a !important;
   }
 
-  /* Ensure the paragraph text inside respects the color */
   footer.footer p {
     color: #1a1a1a !important;
   }
 
-  /* Style the links */
   footer.footer a {
     color: var(--brand-color) !important;
     text-decoration: underline;
