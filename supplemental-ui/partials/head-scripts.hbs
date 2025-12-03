@@ -26,10 +26,65 @@
   }
 
   /* Top-level HOVER state - Go Dark Red, keep text white */
-  .navbar-end > .navbar-item:hover, 
-  .navbar-end > .navbar-link:hover {
-    background-color: var(--brand-hover);
-    color: #FFFFFF;
+
+  /* FIX: Wrap the Heavy Red Hover in a Media Query so it only happens on Desktop */
+  @media screen and (min-width: 1024px) {
+    .navbar-end > .navbar-item:hover, 
+    .navbar-end > .navbar-link:hover {
+      background-color: var(--brand-hover);
+      color: #FFFFFF;
+      transition: background-color 0.2s ease; /* Adds the smooth fade you requested */
+    }
+  }
+
+  /* FIX: For Mobile/Narrow screens, use a neutral hover that doesn't flash */
+  @media screen and (max-width: 1023px) {
+    .navbar-end > .navbar-item:hover, 
+    .navbar-end > .navbar-link:hover {
+      background-color: #E6E1D1; /* A neutral dark cream/grey */
+      color: var(--brand-color); /* Keep text orange-red */
+      transition: background-color 0.2s ease;
+    }
+  }
+
+/* --- MOBILE / NARROW SCREEN TWEAKS --- */
+  @media screen and (max-width: 1023px) {
+    
+    /* 1. The main menu container - Set to Deep Cream (Removes White) */
+    .navbar-menu {
+      background-color: var(--bg-deep-cream) !important;
+      padding: 0 !important; /* Remove gaps that might show white */
+      box-shadow: none !important;
+    }
+
+    /* 2. The Menu Headers (Products, Services) - Richer/Darker Cream, No Grey */
+    .navbar-link {
+      background-color: #E6E1D1 !important; /* Richer Cream */
+      color: var(--text-dark) !important;
+      font-weight: bold;
+    }
+
+    /* 3. The Menu Items (Home, Product A, etc) - Deep Cream */
+    .navbar-item {
+      background-color: var(--bg-deep-cream) !important;
+      color: var(--text-dark);
+    }
+
+    /* 4. Interaction (Hover/Focus) - Make text Red, Keep background Cream */
+    .navbar-item:hover, 
+    .navbar-link:hover,
+    .navbar-item:focus {
+      background-color: #E6E1D1 !important; /* Gentle change */
+      color: var(--brand-color) !important;  /* TEXT TURNS RED */
+    }
+
+    /* 5. Keep the current page RED (Persistence) */
+    /* This ensures if you are ON the page, it stays red in the menu */
+    .navbar-item.is-current,
+    .navbar-item[aria-current="page"] {
+        color: var(--brand-color) !important;
+        font-weight: bold;
+    }
   }
 
   /* --- 2. DROPDOWNS (THE POPUPS) --- */

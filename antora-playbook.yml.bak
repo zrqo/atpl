@@ -4,9 +4,8 @@ site:
 content:
   sources:
     - url: .
-      start_path: .
-      branches: [main]
-      edit_url: 'https://github.com/zrqo/atpl/edit/main/{path}'
+      branches: HEAD
+      edit_url: https://github.com/zrqo/atpl/edit/main/
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
