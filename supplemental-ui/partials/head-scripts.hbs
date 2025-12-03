@@ -1,0 +1,103 @@
+<style>
+  /* --- COLOR VARIABLES --- */
+  :root {
+    --brand-color: #F54927;       /* Your requested Orange-Red */
+    --brand-hover: #C9361B;       /* A darker shade for hover states */
+    --bg-cream: #FEFDF5;          /* The main content cream */
+    --bg-deep-cream: #F2EFE4;     /* Darker cream for Sidebar/Toolbar */
+    --text-dark: #1a1a1a;         /* Standard dark text */
+  }
+
+  /* --- 1. NAVBAR (TOP HEADER) --- */
+  .navbar {
+    background-color: var(--brand-color);
+  }
+
+  /* Top-level links (Home, Products, Services) - MUST be white */
+  .navbar-brand .navbar-item,
+  .navbar-end > .navbar-item, 
+  .navbar-end > .navbar-link {
+    color: #FFFFFF;
+  }
+
+  /* Fix the dropdown arrow color to white */
+  .navbar-link::after {
+    border-color: #FFFFFF;
+  }
+
+  /* Top-level HOVER state - Go Dark Red, keep text white */
+  .navbar-end > .navbar-item:hover, 
+  .navbar-end > .navbar-link:hover {
+    background-color: var(--brand-hover);
+    color: #FFFFFF;
+  }
+
+  /* --- 2. DROPDOWNS (THE POPUPS) --- */
+  /* The container of the dropdown */
+  .navbar-dropdown {
+    background-color: var(--bg-cream);
+    border-top: 2px solid var(--brand-hover); /* Optional nice accent */
+  }
+
+  /* The ITEMS inside the dropdown - Must be DARK text to be visible */
+  .navbar-dropdown .navbar-item {
+    color: var(--text-dark);
+  }
+
+  /* Dropdown HOVER state - Pale orange background, Dark Red text */
+  .navbar-dropdown .navbar-item:hover {
+    background-color: #FFEAE6;
+    color: var(--brand-color);
+  }
+
+  /* --- 3. TOOLBAR (BREADCRUMBS BAR) --- */
+  /* This is the bar immediately below the red header */
+  .toolbar {
+    background-color: var(--bg-deep-cream);
+    box-shadow: none; /* optional: removes subtle shadow for flatter look */
+    border-bottom: 1px solid #E6E1D1; /* Subtle divider */
+  }
+
+  /* --- 4. SIDEBAR (LEFT NAVIGATION) --- */
+  /* The main container for the left menu */
+  .nav-container {
+    background-color: var(--bg-deep-cream);
+  }
+  
+  /* The internal panel of the menu */
+  .nav-panel-menu {
+    background-color: var(--bg-deep-cream);
+  }
+
+  /* --- 5. MAIN CONTENT BACKGROUND --- */
+  body, .doc {
+    background-color: var(--bg-cream);
+  }
+
+  /* Fix code blocks so they don't look weird on cream */
+  .doc pre {
+    background-color: #F5F2E8;
+  }
+/* --- 6. FOOTER (Updated) --- */
+  /* We use "footer.footer" to match the default UI's specificity */
+  /* We use "!important" to force the override */
+  footer.footer {
+    background-color: var(--bg-deep-cream) !important; 
+    color: #1a1a1a !important;
+  }
+
+  /* Ensure the paragraph text inside respects the color */
+  footer.footer p {
+    color: #1a1a1a !important;
+  }
+
+  /* Style the links */
+  footer.footer a {
+    color: var(--brand-color) !important;
+    text-decoration: underline;
+  }
+
+  footer.footer a:hover {
+    color: var(--brand-hover) !important;
+  }
+</style>

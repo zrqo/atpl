@@ -1,0 +1,8 @@
+name: ROOT
+title: zosa/zrqo sandbox
+version: 1.0
+nav:
+  - modules/ROOT/nav.adoc
+asciidoc:
+  attributes:
+    page-download-links: 'Western Cape VFR Map: attachment$ZA_VFR_Westerncape_half-mil20251025.png[role=download], ACG Validity Chart: attachment$acg-validity.png[role=download], Annex 5 Amendment 17: attachment$annex5_5e_amdt17.pdf[role=download]'

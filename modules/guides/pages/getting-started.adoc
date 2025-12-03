@@ -1,0 +1,20 @@
+= Getting Started
+:description: Quick introduction to our project
+
+This guide will help you get up and running quickly.
+
+== Prerequisites
+
+You'll need:
+
+* we're not sure
+* something else we've forgotten to mention
+
+== Another section
+
+Follow these steps...
+
+[TIP]
+====
+Having trouble? Check our xref:troubleshooting.adoc[troubleshooting guide].
+====

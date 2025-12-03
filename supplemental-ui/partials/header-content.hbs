@@ -1,0 +1,65 @@
+<header class="header">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{{or site.url siteRootPath}}}">{{site.title}}</a>
+      {{#if env.SITE_SEARCH_PROVIDER}}
+      <div class="navbar-item search hide-for-print">
+        <div id="search-field" class="field">
+          <input id="search-input" type="text" placeholder="Search the docs"{{#if page.home}} autofocus{{/if}}>
+        </div>
+      </div>
+      {{/if}}
+      <button class="navbar-burger" data-target="topbar-nav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item" href="#">Home</a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">Products</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#">Product A</a>
+            <a class="navbar-item" href="#">Product B</a>
+            <a class="navbar-item" href="#">Product C</a>
+          </div>
+        </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">Services</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#">Service A</a>
+            <a class="navbar-item" href="#">Service B</a>
+            <a class="navbar-item" href="#">Service C</a>
+          </div>
+        </div>
+        <div class="navbar-item">
+          <span class="control">
+            <!-- REPLACED BUTTON START -->
+            <a class="navbar-item" href="https://discord.gg/mQywNCrxRV" target="_blank" title="Join ATPL Network Discord" style="padding: 0;">
+              <span class="icon" style="width: 40px; height: 40px; display: inline-block;">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+                  <rect width="40" height="40" fill="#E3F2FD" rx="4"/>
+                  <text x="20" y="17" 
+                        font-family="Arial, sans-serif" 
+                        font-size="10" 
+                        font-weight="bold" 
+                        fill="#0D47A1" 
+                        text-anchor="middle">ATPL</text>
+                  <text x="20" y="28" 
+                        font-family="Arial, sans-serif" 
+                        font-size="8" 
+                        font-weight="normal" 
+                        fill="#0D47A1" 
+                        text-anchor="middle">network</text>
+                </svg>
+              </span>
+            </a>
+            <!-- REPLACED BUTTON END -->
+          </span>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>

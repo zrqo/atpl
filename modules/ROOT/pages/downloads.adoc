@@ -1,0 +1,13 @@
+= Downloads
+
+== VFR Charts
+
+* link:{attachmentsdir}/ZA_VFR_Westerncape_half-mil20251025.png[Western Cape VFR Map (PNG)]
+
+== Validity Charts  
+
+* link:{attachmentsdir}/acg-validity.png[ACG Validity Chart (PNG)]
+
+== Reference Documents
+
+* link:{attachmentsdir}/annex5_5e_amdt17.pdf[Annex 5 Amendment 17 (PDF)]
