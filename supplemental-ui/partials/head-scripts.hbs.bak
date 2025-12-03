@@ -96,18 +96,6 @@
         color: var(--brand-color) !important;
         font-weight: bold;
     }
-
-    /* F. Force "Edit this Page" to be visible on mobile */
-    .edit-this-page {
-      display: block !important; /* It is 'none' by default in Antora */
-      font-size: 0.9em;          /* Slightly smaller to fit better */
-    }
-
-    /* Style the link itself */
-    .edit-this-page a {
-      color: var(--brand-color) !important;
-      text-decoration: underline;
-    }
   }
 
   /* =========================================
