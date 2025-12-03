@@ -1,0 +1,17 @@
+site:
+  title: Zosa Docs Test
+  start_page: ROOT:index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/package/default-ui.zip
+    snapshot: true
+
+output:
+  dir: ./public
+
