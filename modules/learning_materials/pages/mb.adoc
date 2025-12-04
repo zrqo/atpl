@@ -7,3 +7,60 @@
 Original discussion channel:
 link:https://discord.com/channels/823542587301429248/824249327928344626[#mb-learning-materials]
 ====
+
+== External Resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| cptairman
+| Mass & Balance notes; shared May 2025. +
+https://drive.google.com/drive/folders/1_Y4QHaPUHxD1AUhZlf8rKbS0xHKJ49ZY?usp=sharing
+
+| eliottlerouge
+| Key notes for Mass & Balance; shared Nov 2023. +
+https://drive.google.com/file/d/1-oBqWsDFGXflS1-L7Dnlz-P1ZO_lwSdd/view?usp=sharing
+
+| Anonymous
+| Google Drive folder with Mass & Balance material; shared Aug 2022. +
+https://drive.google.com/drive/folders/1WhW5UWnSMBVZ5bFbJ7u3jjxttmIvggAl
+
+| Anonymous
+| Miro mind map on CG limits; shared Feb 2022. +
+https://miro.com/app/board/o9J_lYtl1hg=/
+
+| atec
+| Notes based on a BGS course; shared Dec 2021. +
+https://onedrive.live.com/?id=65D0A1FC3B9920DD%2115643&resid=65D0A1FC3B9920DD%2115643
+
+| ATPL class (YouTube)
+| Channel with Mass & Balance primers and a worked practice paper. +
+https://www.youtube.com/channel/UCCVJ1EUYMO7UaBjEUWPyXTA
+
+|===
+
+
+== Files stored locally
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| Eliott Johnson
+| xref:attachment$mb/eliottjohnson_mb_nov2023.pdf[*eliottjohnson_mb_nov2023.pdf*] – Eliott Johnson's M & B notes. Shared Nov 2023.
+
+| Anonymous
+| xref:attachment$mb/anon_keynotes_mb_mar2021.pdf[*anon_keynotes_mb_mar2021.pdf*] – Mass & Balance key notes shared by an anonymous contributor (Mar 2021).
+
+| Anonymous
+| xref:attachment$mb/anon_mb_apr2021.pdf[*anon_mb_apr2021.pdf*] – Additional Mass & Balance notes shared anonymously (Apr 2021).
+
+| mln349tommaso
+| xref:attachment$mb/mln349tommaso_mb_summary_feb2022.pdf[*mln349tommaso_mb_summary_feb2022.pdf*] – Summary notes on Mass & Balance (Feb 2022).
+
+| cptairman
+| xref:attachment$mb/cptairman_mb_jan2024.pdf[*cptairman_mb_jan2024.pdf*] – Mass & Balance notes by CPTairman (Jan 2024).
+
+| casperlf
+| xref:attachment$mb/casperlf_mb_dec2024.pdf[*casperlf_mb_dec2024.pdf*] – Mass & Balance notes shared by casperlf (Dec 2024).
+
+|===

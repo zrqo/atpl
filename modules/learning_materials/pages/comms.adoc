@@ -8,3 +8,35 @@ Original discussion channel:
 link:https://discord.com/channels/823542587301429248/824249684167753778[#comms-learning-materials]
 ====
 
+== External Resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| eliottlerouge
+| Communications key notes compiled by Eliott Johnson. Shared Nov 2023. +
+https://drive.google.com/file/d/1-pfkzjYNGeWOucRg5cplqfEwDh0GgV-z/view?usp=drive_link
+
+| Anonymous
+| Google Drive folder containing Comm notes (files attributed to Bryan Vano). Shared Jun 2022. +
+https://drive.google.com/drive/folders/1nAx8fzf79PwjRHe_zbGkV9pM5LwnFEU2
+
+| atec
+| Comprehensive Comms notes based on the BGS manual. Shared Dec 2021. +
+https://onedrive.live.com/?id=%2Fpersonal%2F65d0a1fc3b9920dd%2FDocuments%2FVliegen%2FSamenvatting%20ATPL%20Theorie%2FCommunications&listurl=%2Fpersonal%2F65d0a1fc3b9920dd%2FDocuments
+|===
+
+== Files stored locally
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| eliottlerouge
+| xref:attachment$comms/eliott_johnson_comms.pdf[*eliott_johnson_comms.pdf*] – Communications notes shared by Eliott Johnson (Nov 2023).
+
+| Anonymous
+| xref:attachment$comms/anon_keynotes_comms.pdf[*anon_keynotes_comms.pdf*] – Communications key notes from a former contributor (Mar 2021).
+
+| mauriceschmitt
+| xref:attachment$comms/maurice_schmitt_comms.pdf[*maurice_schmitt_comms.pdf*] – Comms notes shared by Maurice Schmitt (Sep 2025).
+|===

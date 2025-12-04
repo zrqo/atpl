@@ -1,0 +1,199 @@
+<style>
+  /* --- COLOR VARIABLES --- */
+  :root {
+    --brand-color: #F54927;       /* Your requested Orange-Red */
+    --brand-hover: #C9361B;       /* A darker shade for hover states */
+    --bg-cream: #FEFDF5;          /* The main content cream */
+    --bg-deep-cream: #F2EFE4;     /* Darker cream for Sidebar/Toolbar */
+    --text-dark: #1a1a1a;         /* Standard dark text */
+  }
+
+  /* =========================================
+     1. GLOBAL NAVBAR STYLES (Desktop Defaults)
+     ========================================= */
+  .navbar {
+    background-color: var(--brand-color);
+  }
+
+  /* FIX 1: Removed the ">" arrows so this applies to ALL nested links (like the icon) */
+  .navbar-brand .navbar-item,
+  .navbar-end .navbar-item,
+  .navbar-end .navbar-link {
+    color: #FFFFFF;
+  }
+
+  /* Fix the dropdown arrow color to white */
+  .navbar-link::after {
+    border-color: #FFFFFF;
+  }
+
+/* =========================================
+     2. DESKTOP SPECIFIC BEHAVIOR (Min-Width 1024px)
+     ========================================= */
+  @media screen and (min-width: 1024px) {
+    /* 1. General Hover Effect (For single buttons like Home or the Icon) */
+    .navbar-end .navbar-item:hover,
+    .navbar-end .navbar-link:hover {
+      background-color: var(--brand-hover);
+      color: #FFFFFF;
+      transition: background-color 0.2s ease;
+    }
+
+    /* 2. FIX: Specific rule for Dropdowns (Products, Services) 
+       This stops them turning BLACK when you hover over them. */
+    .navbar-item.has-dropdown:hover .navbar-link {
+      background-color: var(--brand-hover) !important;
+      color: #FFFFFF !important;
+    }
+  }
+
+  /* =========================================
+     3. MOBILE / NARROW SCREEN FIXES (Max-Width 1023px)
+     ========================================= */
+  @media screen and (max-width: 1023px) {
+    
+    /* A. The Main Menu Container - Set to Deep Cream */
+    .navbar-menu {
+      background-color: var(--bg-deep-cream) !important;
+      padding: 0 !important;
+      box-shadow: none !important;
+    }
+
+    /* B. Fix "Home", "Products", "Services" Links 
+       On Desktop they are White. On Mobile Cream, they MUST be Dark. */
+    .navbar-end .navbar-item,
+    .navbar-end .navbar-link {
+      color: var(--text-dark) !important;
+      background-color: transparent;
+    }
+
+    /* C. Fix the ATPL Network Icon 
+       Force the icon wrapper to be Red so the "currentColor" SVG sees it. */
+    .navbar-end .navbar-item .icon {
+       color: var(--brand-color) !important;
+    }
+
+    /* D. Fix the Site Title (Top Left) 
+       This sits on the Red Bar, so it MUST stay WHITE. */
+    .navbar-brand .navbar-item {
+       color: #FFFFFF !important;
+       font-weight: bold;
+    }
+
+    /* E. Menu Headers (The clickable parent links) 
+       Give them a richer cream background to separate them. */
+    .navbar-link {
+      background-color: #E6E1D1 !important; 
+      font-weight: bold;
+    }
+
+    /* F. Hover/Focus States on Mobile
+       Use a gentle cream hover (not dark red) to stop flickering. */
+    .navbar-item:hover, 
+    .navbar-link:hover,
+    .navbar-item:focus {
+      background-color: #E6E1D1 !important; 
+      color: var(--brand-color) !important; /* Text turns red */
+    }
+
+    /* G. Persistence - Keep current page highlighted Red */
+    .navbar-item.is-current,
+    .navbar-item[aria-current="page"] {
+        color: var(--brand-color) !important;
+        font-weight: bold;
+    }
+
+    /* H. Mobile "Edit this Page" Link */
+    .edit-this-page {
+      display: block !important; 
+      font-size: 0.9em;          
+    }
+
+    /* I. Style: Grey and No Underline (Matches Desktop) */
+    .edit-this-page a {
+      color: inherit !important;   /* Uses default text color (Grey) */
+      text-decoration: none;       /* Removes underline */
+      opacity: 0.7;                /* Makes it slightly subtle */
+    }
+  }
+
+  /* =========================================
+     4. DROPDOWNS (Desktop Popups)
+     ========================================= */
+  .navbar-dropdown {
+    background-color: var(--bg-cream);
+    border-top: 2px solid var(--brand-hover);
+  }
+
+  .navbar-dropdown .navbar-item {
+    color: var(--text-dark);
+  }
+
+  .navbar-dropdown .navbar-item:hover {
+    background-color: #FFEAE6;
+    color: var(--brand-color);
+  }
+
+  /* =========================================
+     5. GENERAL PAGE LAYOUT (Toolbar, Sidebar, Content)
+     ========================================= */
+  
+  /* Toolbar (Breadcrumbs bar below header) */
+  .toolbar {
+    background-color: var(--bg-deep-cream);
+    box-shadow: none;
+    border-bottom: 1px solid #E6E1D1;
+  }
+
+  /* Sidebar (Left Navigation) */
+  .nav-container, .nav-panel-menu {
+    background-color: var(--bg-deep-cream);
+  }
+
+  /* Main Content Area */
+  body, .doc {
+    background-color: var(--bg-cream);
+  }
+
+  /* Code Blocks */
+  .doc pre {
+    background-color: #F5F2E8;
+  }
+
+  /* =========================================
+     6. FOOTER STYLES
+     ========================================= */
+  footer.footer {
+    background-color: var(--bg-deep-cream) !important;
+    color: #1a1a1a !important;
+  }
+
+  footer.footer p {
+    color: #1a1a1a !important;
+  }
+
+  footer.footer a {
+    color: var(--brand-color) !important;
+    text-decoration: underline;
+  }
+
+  footer.footer a:hover {
+    color: var(--brand-hover) !important;
+  }
+  /* =========================================
+     7. ADMONITIONS (The Alert Boxes)
+     ========================================= */
+  
+  /* Change the body of the alert from Grey to Warm Retro Paper */
+  .doc .admonitionblock td.content {
+    background-color: #FFF9F2 !important; /* Pale warm apricot/seashell */
+    border: 1px solid #EEDAC0;            /* A gentle 70s beige border */
+    color: #333333;                       /* Soft charcoal text */
+    border-radius: 0 4px 4px 0;           /* Soften the corners */
+  }
+
+  /* Optional: Add a subtle shadow to make it pop like a card */
+  .doc .admonitionblock {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+</style>

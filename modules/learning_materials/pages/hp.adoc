@@ -7,3 +7,55 @@
 Original discussion channel:
 link:https://discord.com/channels/823542587301429248/824249758603673611[#hp-learning-materials]
 ====
+
+== External Resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| brunomiranda
+| Google Drive folder containing key notes for multiple subjects; shared Jan 2023. +
+https://drive.google.com/drive/folders/1Z5h9yc0WeTZNR2aGCs318zfXoDRWvQbd
+
+| eliottlerouge
+| Human Performance notes; shared Nov 2023. +
+https://drive.google.com/file/d/1-phVeGpY8ZA-E9T4UN-_7T94OS_MyVfi/view?usp=sharing
+
+|===
+
+== Files stored locally
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| eliottlerouge
+| xref:attachment$hp/eliott_johnson_hp_nov2023.pdf[*eliott_johnson_hp_nov2023.pdf*] – Human Performance notes shared Nov 2023.
+
+| salalam
+| xref:attachment$hp/salalam_hp_feb2023.pdf[*salalam_hp_feb2023.pdf*] – Human Performance notes shared Feb 2023.
+
+| moomz
+| xref:attachment$hp/moomz_hp_aug2022.pdf[*moomz_hp_aug2022.pdf*] – Human Performance notes shared Aug 2022.
+
+| cptairman
+| xref:attachment$hp/cptairman_hp_sep2024.pdf[*cptairman_hp_sep2024.pdf*] – Human Performance notes shared Sep 2024.
+
+| Anonymous
+| xref:attachment$hp/anon_hp_apr2021.pdf[*anon_hp_apr2021.pdf*] – Human Performance notes shared Apr 2021.
+
+| Anonymous
+| xref:attachment$hp/anon_keynotes_hp_mar2021.pdf[*anon_keynotes_hp_mar2021.pdf*] – Key notes shared Mar 2021.
+
+|===
+
+== Non-CC Video Reference
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| tuqi
+| “Blackhole approach landing at Burketown, Queensland… challenging end of an IFR flight from Gold Coast via Barcaldine.”  
+Posted in FB IFR Pilot Group. Stored locally as:  
+xref:attachment$hp/blackhole_burketown_australia_fb-ifr-pilot-group.mp4[*blackhole_burketown_australia_fb-ifr-pilot-group.mp4*]
+
+|===

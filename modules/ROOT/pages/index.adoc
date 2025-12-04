@@ -1,5 +1,7 @@
 = ATPL NETWORK test page
 
+:page-toc: false
+
 Welcome stranger!
 
 This is a community-built knowledge repository for anyone studying towards the EASE/UK ATPL exams. Here you'll find rough study notes, reference materials, and learning resources contributed by past students.
@@ -16,6 +18,7 @@ This site runs on a FreeBSD jail so ZFS snapshots can be provided on request.  I
 
 * [x] Add CAPs
 * [x] Link annexes to BAZL 
+* [ ] learning material for {hp, comms, inst, mb}
 * [ ] EASA documents
 * [ ] EEA/UK law
 * [ ] set content url source to github

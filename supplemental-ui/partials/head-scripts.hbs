@@ -15,11 +15,18 @@
     background-color: var(--brand-color);
   }
 
-  /* FIX 1: Removed the ">" arrows so this applies to ALL nested links (like the icon) */
+  /* FIX 1: Removed the ">" arrows so this applies to ALL nested links */
   .navbar-brand .navbar-item,
   .navbar-end .navbar-item,
   .navbar-end .navbar-link {
     color: #FFFFFF;
+  }
+
+  /* FIX 2: Site Title Hover (Global Default) */
+  .navbar-brand .navbar-item:hover,
+  .navbar-brand .navbar-item:focus {
+    background-color: var(--brand-color) !important; /* Force Red */
+    color: #FFFFFF !important;                       /* Force White */
   }
 
   /* Fix the dropdown arrow color to white */
@@ -39,7 +46,7 @@
       transition: background-color 0.2s ease;
     }
 
-    /* 2. FIX: Specific rule for Dropdowns (Products, Services) 
+    /* 2. FIX: Specific rule for Dropdowns (Products, Services)
        This stops them turning BLACK when you hover over them. */
     .navbar-item.has-dropdown:hover .navbar-link {
       background-color: var(--brand-hover) !important;
@@ -51,7 +58,7 @@
      3. MOBILE / NARROW SCREEN FIXES (Max-Width 1023px)
      ========================================= */
   @media screen and (max-width: 1023px) {
-    
+
     /* A. The Main Menu Container - Set to Deep Cream */
     .navbar-menu {
       background-color: var(--bg-deep-cream) !important;
@@ -59,7 +66,7 @@
       box-shadow: none !important;
     }
 
-    /* B. Fix "Home", "Products", "Services" Links 
+    /* B. Fix "Home", "Products", "Services" Links
        On Desktop they are White. On Mobile Cream, they MUST be Dark. */
     .navbar-end .navbar-item,
     .navbar-end .navbar-link {
@@ -67,32 +74,38 @@
       background-color: transparent;
     }
 
-    /* C. Fix the ATPL Network Icon 
+    /* C. Fix the ATPL Network Icon
        Force the icon wrapper to be Red so the "currentColor" SVG sees it. */
     .navbar-end .navbar-item .icon {
        color: var(--brand-color) !important;
     }
 
-    /* D. Fix the Site Title (Top Left) 
-       This sits on the Red Bar, so it MUST stay WHITE. */
+    /* D. Fix the Site Title (Top Left) - UPDATED
+       We explicitly force this to stay Red/White to override rule F below. */
     .navbar-brand .navbar-item {
        color: #FFFFFF !important;
        font-weight: bold;
     }
+    /* THIS IS THE MISSING PIECE FOR MOBILE HOVER: */
+    .navbar-brand .navbar-item:hover,
+    .navbar-brand .navbar-item:focus {
+       background-color: var(--brand-color) !important;
+       color: #FFFFFF !important;
+    }
 
-    /* E. Menu Headers (The clickable parent links) 
+    /* E. Menu Headers (The clickable parent links)
        Give them a richer cream background to separate them. */
     .navbar-link {
-      background-color: #E6E1D1 !important; 
+      background-color: #E6E1D1 !important;
       font-weight: bold;
     }
 
     /* F. Hover/Focus States on Mobile
        Use a gentle cream hover (not dark red) to stop flickering. */
-    .navbar-item:hover, 
+    .navbar-item:hover,
     .navbar-link:hover,
     .navbar-item:focus {
-      background-color: #E6E1D1 !important; 
+      background-color: #E6E1D1 !important;
       color: var(--brand-color) !important; /* Text turns red */
     }
 
@@ -105,8 +118,8 @@
 
     /* H. Mobile "Edit this Page" Link */
     .edit-this-page {
-      display: block !important; 
-      font-size: 0.9em;          
+      display: block !important;
+      font-size: 0.9em;
     }
 
     /* I. Style: Grey and No Underline (Matches Desktop) */
@@ -137,7 +150,7 @@
   /* =========================================
      5. GENERAL PAGE LAYOUT (Toolbar, Sidebar, Content)
      ========================================= */
-  
+
   /* Toolbar (Breadcrumbs bar below header) */
   .toolbar {
     background-color: var(--bg-deep-cream);
@@ -183,7 +196,7 @@
   /* =========================================
      7. ADMONITIONS (The Alert Boxes)
      ========================================= */
-  
+
   /* Change the body of the alert from Grey to Warm Retro Paper */
   .doc .admonitionblock td.content {
     background-color: #FFF9F2 !important; /* Pale warm apricot/seashell */

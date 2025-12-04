@@ -7,3 +7,74 @@
 Original discussion channel:
 link:https://discord.com/channels/823542587301429248/824249455242772490[#inst-learning-materials]
 ====
+
+== External Resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| Pete Begley (TKI)
+| Basic instruments playlist; shared as a study aid. +
+https://www.youtube.com/playlist?list=PLQRb_vTM8AVrKrJghymn8JbgixesnupfJ
+
+| Pete Begley (TKI)
+| Advanced instruments playlist; shared as a follow-on set. +
+https://www.youtube.com/playlist?list=PLQRb_vTM8AVqTaetD9nRr1fXPALwLf34D
+
+| atec
+| Instrumentation notes; shared Dec 2021. +
+https://1drv.ms/u/s!At0gmTv8odBl-hjj6oS2_32o0tIq?e=ukL6m0
+
+| Anonymous
+| Google Drive folder with Instrumentation material; shared Apr 2022. +
+https://drive.google.com/drive/u/0/folders/1oUo4_a6A_ss9EtPaWxJwj-MY89tPwxMr
+
+| jumanji
+| Airbus MCDU emulator (useful for autoflight/FMS familiarisation). +
+https://mcdu.equicom.net/
+
+| eliottlerouge
+| Instrumentation notes; shared Nov 2023. +
+https://drive.google.com/file/d/1-kssYvMetwK3ENdHzo36nsocl5JFnTmJ/view?usp=sharing
+
+| Anonymous
+| Flight Instruments playlist (general instructional videos). +
+https://www.youtube.com/watch?v=mqLyitBTfjY&list=PLJ-0SVdtegU-SS5Kp12Yw70iJbx4ApHhD
+
+| cptairman
+| Instrumentation notes; shared May 2025. +
+https://drive.google.com/drive/folders/1_Y4QHaPUHxD1AUhZlf8rKbS0xHKJ49ZY
+
+| mad3250
+| Statistics on exam question frequency vs question bank coverage; shared Nov 2025. +
+https://gemini.google.com/share/421604ffeb7a
+
+|===
+
+== Files stored locally
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| Anonymous
+| xref:attachment$inst/anon2_inst_jul2021.pdf[*anon2_inst_jul2021.pdf*] – Instrumentation notes; shared Jul 2021.
+
+| Anonymous
+| xref:attachment$inst/anon_inst_autopilot_auto_throttle_relationship.pdf[*anon_inst_autopilot_auto_throttle_relationship.pdf*] – Notes on autopilot and autothrottle interaction.
+
+| Anonymous
+| xref:attachment$inst/anon_inst_jul2021.pdf[*anon_inst_jul2021.pdf*] – Instrumentation notes; shared Jul 2021.
+
+| Anonymous
+| xref:attachment$inst/anon_keynotes_inst_Nov2021.pdf[*anon_keynotes_inst_Nov2021.pdf*] – Key notes in Instrumentation; shared Nov 2021.
+
+| eliottlerouge
+| xref:attachment$inst/elliot_johnson_inst_nov2023.pdf[*elliot_johnson_inst_nov2023.pdf*] – Instrumentation notes; shared Nov 2023.
+
+| Anonymous
+| xref:attachment$inst/inst_keynotes_Oct2022.pdf[*inst_keynotes_Oct2022.pdf*] – Instrumentation key notes; shared Oct 2022.
+
+| moomz
+| xref:attachment$inst/moomz_inst_jan2022.pdf[*moomz_inst_jan2022.pdf*] – Instrumentation notes; shared Jan 2022.
+
+|===
