@@ -1,0 +1,117 @@
+= Aircraft General Knowledge – Community Learning Materials
+
+:page-nav-title: AGK Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249209385254922[#agk-learning-materials]
+====
+
+== External Resources
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & Link
+
+|cptairman
+|Google Drive folder containing AGK notes together with other ATPL subjects.  
+https://drive.google.com/drive/folders/1_Y4QHaPUHxD1AUhZlf8rKbS0xHKJ49ZY
+
+|cptairman
+|Large mega.nz archive (~670 MB) containing mixed ATPL notes including AGK.  
+https://mega.nz/folder/NYhQ1CaZ#XYciOm8oAjyXRDmO82Kcew
+
+|Anonymous
+|Google Drive folder shared without description; used for AGK study materials.  
+https://drive.google.com/drive/folders/1u4VwDSpWKT-Z_VjJg-UENqjPgNN37MmN
+
+|qalup
+|Evernote resource: *Aircraft Engine and its Operation — Installation Engineering, Pratt & Whitney, Feb 1955 (PWA 109702)*.  
+https://lite.evernote.com/note/3e1e459b-d678-eda9-38a4-5c03b3e6f289
+
+|amicium
+|Pfleger ATPL theory site — AGK section reference.  
+https://www-jo.se/f.pfleger/atpl/
+|===
+
+== Video Resources
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & Link
+
+|rzzxso
+|*Aircraft Gas Turbine Engines #01 — Introduction (Part 1)* — clear, structured turbine theory intro.  
+https://youtu.be/IS-QJHbkDeI
+
+|Anonymous
+|*Compressor Stall Explained* (AgentJayZ) — one of the clearest real-world demonstrations.  
+https://youtu.be/yaFeO6Jze64
+
+|Anonymous
+|*VIGVs 2 — Turbine Engines: A Closer Look* (AgentJayZ) — good follow-up on airflow control.  
+https://youtu.be/Lc8Ssi3K4SY
+
+|jumanji1789
+|*How a Jet Airliner Works* (Animagraffs) — outstanding visualisation of major systems for AGK.  
+https://www.youtube.com/watch?v=NZLbTuBDhJg
+
+|Anonymous
+|*Jet Engine Fundamentals — Everything you need to know* (Nick Maverick) — long-form turbine fundamentals.  
+https://youtu.be/25i0AzTa5rw
+
+|udon_hogosha
+|BOSCH animation: starter motor operation.  
+https://www.youtube.com/watch?v=RVIDNfXjDfg
+
+|udon_hogosha
+|Generator operation animation.  
+https://www.youtube.com/watch?v=Cuw0QxWa4Lo
+
+|udon_hogosha
+|Alternator basics animation.  
+https://www.youtube.com/watch?v=tnqLtu3T8Fw
+
+|udon_hogosha
+|Starter motor solenoid / engagement explanation.  
+https://youtu.be/X6czSiebzZo
+|===
+
+== Files stored locally
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & File
+
+|rc1993
+|xref:attachment$agk/agk_airframes_systems2.pdf[*agk_airframes_systems2.pdf*] — Older *Airframes & Systems* notes; excludes engines.
+
+|olitre3
+|xref:attachment$agk/atpl_notes_electrics.pdf[*atpl_notes_electrics.pdf*] — ATPL **Electrics** summary (older syllabus but still solid).
+
+|flyx5984
+|xref:attachment$agk/atpl_notes_engines_compressed.pdf[*atpl_notes_engines_compressed.pdf*] — Compact **Engines** notes (piston + turbine).
+
+|eliottlerouge
+|xref:attachment$agk/airframe_systems_electrics_powerplant_eliott.pdf[*airframe_systems_electrics_powerplant_eliott.pdf*] — Eliott’s full **Airframe / Systems / Electrics / Powerplant** summary.
+
+|cptairman
+|xref:attachment$agk/cptairman_agk.pdf[*cptairman_agk.pdf*] — Broad AGK notes covering systems, electrics, engines.
+
+|shaddy173813
+|xref:attachment$agk/shaddy_agk_mindsheet.pdf[*shaddy_agk_mindsheet.pdf*] — AGK “mindsheet”: quick prompts for recall.
+
+|supermode_
+|xref:attachment$agk/supermode_agk.pdf[*supermode_agk.pdf*] — Concise AGK summary based on the older syllabus.
+
+|zinnieminnie_52891
+|xref:attachment$agk/zinnie_agk_notes.pdf[*zinnie_agk_notes.pdf*] — General AGK overview notes.
+
+|zinnieminnie_52891
+|xref:attachment$agk/zinnie_agk_electrics.pdf[*zinnie_agk_electrics.pdf*] — Focused **Electrics** companion notes.
+
+|zinnieminnie_52891
+|xref:attachment$agk/zinnie_agk_engine.pdf[*zinnie_agk_engine.pdf*] — Engine-specific AGK summary (piston + turbine).
+
+|===

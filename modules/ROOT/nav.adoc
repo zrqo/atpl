@@ -4,6 +4,8 @@
 * xref:downloads.adoc[Downloads]
 
 .Learning Materials
+* xref:learning_materials:law.adoc[Air Law]
+* xref:learning_materials:agk.adoc[Aircraft General Knowledge]
 * xref:learning_materials:perf.adoc[Performance]
 * xref:learning_materials:pof.adoc[Principles of Flight]
 

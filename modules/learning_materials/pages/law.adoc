@@ -1,0 +1,75 @@
+= Air Law – Community Learning Materials
+
+:page-nav-title: Air Law Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824248872498888734[#law-learning-materials]
+====
+
+
+== External resources
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & Link
+
+|nunxuc
+|Google Drive folder containing all subjects, including Air Law, shared as free community notes.
+https://drive.google.com/drive/u/0/folders/12aVyENnUBVzC5T3N0fzpsfSmwY7CpBUE
+
+|cptairman
+|Google Drive folder of complete ATPL subject notes, replacing earlier MEGA versions.
+https://drive.google.com/drive/folders/1_Y4QHaPUHxD1AUhZlf8rKbS0xHKJ49ZY
+
+|eliottleroute
+|Google Drive ATPL air law notes.
+https://drive.google.com/file/d/1c4L2uozpQ0irdugrt7Y7xIlg3LxXNMc0/view
+
+|Anonymous
+|Google Drive folder containing Air Law-focused notes together with other theory extracts. Often reposted in the channel as a general-purpose study pack.
+https://drive.google.com/drive/folders/1lBcptpi2mE1QfINtlMtgUGjiWMu6uYWR
+|===
+
+== Video Resources
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & Link
+
+|emilm4178
+|YouTube Air Law CBT-style playlist (labelled “Air Law / Air Regulation”) widely used in the channel as a structured video course.
+https://www.youtube.com/playlist?list=PLWUlev3uH5nc_3r2IF-EIhgv3KrpuSe-J
+
+|===
+
+== Files stored locally
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & File
+
+|eliottlerouge
+|xref:attachment$law/air_law_eliott_johnson.pdf[*air_law_eliott_johnson.pdf*] — Eliott’s **Air Law summary**, originally titled “Air law – Summary.pdf”.  
+Posted 2022-09-25 and again 2023-11-17.
+
+|miguelmj_1
+|xref:attachment$law/manual_air_law_completed.pdf[*manual_air_law_completed.pdf*] — “Manual Air Law Completed”, full student-produced manual.  
+Date: 2021-08-08 (Message ID 873945191038468116).
+
+|Anonymous
+|xref:attachment$law/anon_easa_air_law.pdf[*anon_easa_air_law.pdf*] — “EASA_Air_Law.pdf”, anonymous community share used widely before structured notes became available.  
+Date: 2021-03-29 (Message ID 826153084458893312).
+
+|bravooyankee26
+|xref:attachment$law/bravooyankee26_air_law_keynotes2.pdf[*bravooyankee26_air_law_keynotes2.pdf*] — **Key Notes 2**, a distilled set of Air Law memory prompts.  
+Date: 2022-10-06 (Message ID 1027543683756720210).
+
+|fede.rico
+|xref:attachment$law/federico_air_law.pdf[*federico_air_law.pdf*] — ATPLQ “**best comments**” compilation, summarising explanations to common question pitfalls.  
+Date: 2024-09-14 (Message ID 1284515455423479808).
+
+|amicium
+|xref:attachment$law/joseph_airlaw.pdf[*joseph_airlaw.pdf*] — “Joseph Airlaw”, a concise reformatted Air Law booklet produced by amicium.  
+Date: (noted in channel history).
+|===
