@@ -6,9 +6,11 @@
 .Learning Materials
 * xref:learning_materials:law.adoc[Air Law]
 * xref:learning_materials:agk.adoc[Aircraft General Knowledge]
-* xref:learning_materials:met.adoc[Metorology]
+* xref:learning_materials:gnav.adoc[General Navigation]
+* xref:learning_materials:met.adoc[Meteorology]
 * xref:learning_materials:perf.adoc[Performance]
 * xref:learning_materials:pof.adoc[Principles of Flight]
+* xref:learning_materials:rnav.adoc[Radio Navigation]
 
 .Guides
 * xref:guides:getting-started.adoc[Getting Started]

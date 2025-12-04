@@ -13,31 +13,19 @@ link:https://discord.com/channels/823542587301429248/824248996955684925[#met-lea
 
 [cols="20%,80%"]
 |===
-| Resource Type | Description & Link
+| Submitter | Description & Link
 
-| Google Drive Folder
-| CPTairman's comprehensive notes for all subjects including Meteorology +
+| CPTairman
+| Comprehensive notes for all subjects including Meteorology +
 https://drive.google.com/drive/folders/1_Y4QHaPUHxD1AUhZlf8rKbS0xHKJ49ZY?usp=sharing
 
-| Google Drive File
-| Eliott's Meteorology Summary (with background) +
+| Eliott Johnson
+| Meteorology Summary (with background) +
 https://drive.google.com/file/d/1fvzC5pJg-1hANoFZ6YLgAa42EqY4F47B/view?usp=share_link
 
-| Google Drive File
-| Eliott's Meteorology Summary (no background, print-friendly) +
-https://drive.google.com/file/d/1zqoHBpdK3RfUb00uKOkJHZjmvav-uVpJ/view?usp=share_link
-
-| Google Drive File
-| Naji's comprehensive MET materials +
-https://drive.google.com/file/d/1c4L2uozpQ0irdugrt7Y7xIlg3LxXNMc0/view?usp=drive_link
-
-| Google Drive Folder
+| Bryan Vano
 | Met/Aviation Training Videos collection +
 https://drive.google.com/drive/folders/1nAx8fzf79PwjRHe_zbGkV9pM5LwnFEU2?usp=sharing
-
-| EASA Official Document
-| EASA Part-FCL Easy Access Rules (includes LO starting page 506) +
-https://www.easa.europa.eu/downloads/65432/en
 
 | EASA Official Document
 | TK Syllabus Comparison Document (Old vs New Syllabus) +
@@ -64,20 +52,12 @@ https://www.northavimet.com/NamConWS/rest/document/sigwx_help
 https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/11-met-marine-weather/11d-forecasting-satellite/
 
 | Web Resource
-| ETH Zurich - Jet Streams PDF +
-http://iacweb.ethz.ch/staff//sprenger/dynmet_HS10/jetstreams.pdf
+| ETH Zurich - Jet Streams PDF (Archived) +
+https://web.archive.org/web/20230601090055/https://iacweb.ethz.ch/staff/sprenger/dynmet_HS10/jetstreams.pdf
 
 | EUMETSAT Training
 | Jet Stream Identification from Satellite Images (Interactive Exercise) +
 https://training.tools.eumetsat.int/exercises/asmet9/jet_stream2/module/index.htm
-
-| Udemy Course
-| Learn to Read METAR, TAF and SPECI Like a Pro (Free until Wednesday) +
-https://www.udemy.com/course/learn-to-read-metar-taf-and-speci-like-a-pro/?couponCode=520A4D8E8702573B08F3
-
-| BAE Systems Document
-| Think Ice! Icing Awareness for Regional Aircraft Operators +
-https://portal.regional-services.com/img/think_ice2010_26_2_14.pdf
 |===
 
 == Video Resources (YouTube)
@@ -147,59 +127,39 @@ https://youtube.com/playlist?list=PLncfeagBRbBfIVoyRdtcpXAnVFoMKhABF&si=RhS2dIWk
 https://youtube.com/playlist?list=PL8sNTK4aKySJ_S3MaOZ5ctNfXstnJIHDY&si=A_uw0-LnUiH_1EjC
 |===
 
-== Files (to be stored locally)
+== Files stored locally
 
 [cols="20%,80%"]
 |===
-| File Type | Description & Filename
+| Submitter | Description & File
 
-| PDF
-| Meteorology_Notes_2023.pdf (264KB) - Bogdan's useful MET notes from ATPLQ bank +
-Shared by: bogdan.bdevs (ID: 1081185171363070052 & 1386057476016967904)
+| bogdan.bdevs
+| xref:attachment$met/bogdanbdevs_meteorology_notes_2023.pdf[*bogdanbdevs_meteorology_notes_2023.pdf*] – Useful MET notes from ATPLQ bank.
 
-| PDF
-| OPERATIONAL_PROCEDURES_-_ATPLQ.pdf (4.6MB) - Example of ATPLQ format notes +
-Shared by: hhuska (ID: 1420821452449382482)
+| cptairman
+| xref:attachment$met/cptairman_meteorology.pdf[*cptairman_meteorology.pdf*] – Comprehensive meteorology notes.
 
-| PDF
-| Meteorology.docx (8.8MB) & Meteorology.pdf (2.5MB) - CPTairman's comprehensive notes +
-Shared by: cptairman (ID: 1287451039284596818 & 1287451039657754707)
+| deivikani
+| xref:attachment$met/deivikani_meteo.pdf[*deivikani_meteo.pdf*] – Meteorology notes.
 
-| PDF
-| MET.pdf (27.6MB) - Comprehensive MET material (Naji) +
-Shared by: naji0578 (ID: 1263120112659992576)
+| mln349tommaso
+| xref:attachment$met/mln349tommaso_met_summary.pdf[*mln349tommaso_met_summary.pdf*] – MET formula summary sheet.
 
-| PDF
-| Meteo.pdf (41.8MB) - Deivi Kani's meteorology notes +
-Shared by: deivikani (ID: 1306288005635510312)
+| moomz5478
+| xref:attachment$met/moomz_notes_meto.pdf[*moomz_notes_meto.pdf*] – Condensed BGS notes (2020 syllabus).
 
-| PDF
-| MET_Summary.pdf (570KB) - Formula summary sheet +
-Shared by: mln349tommaso (ID: 942012849193107516)
+| rc1993
+| xref:attachment$met/rc1993_met_compressed.pdf[*rc1993_met_compressed.pdf*] – Comprehensive ATPL MET notes.
 
-| PDF
-| NOTES_METO.pdf (7.2MB) - Moomz's condensed BGS notes (2020 syllabus) +
-Shared by: moomz5478 (ID: 930129193843425420)
+| captain737
+| xref:attachment$met/captain737_ta_to_pa.pdf[*captain737_ta_to_pa.pdf*] – True Altitude → Pressure Altitude conversion. +
+xref:attachment$met/captain737_pa_to_ta.pdf[*captain737_pa_to_ta.pdf*] – Pressure Altitude → True Altitude conversion.
 
-| PDF
-| Copy_of_ATPL_Notes_-_Met-compressed.pdf (2.7MB) - Reggie's comprehensive ATPL notes +
-Shared by: rc1993 (ID: 873856134748979200)
+| gallo4310
+| xref:attachment$met/gallo_cold_warm_centres_cross_cection.pdf[*gallo_cold_warm_centres_cross_cection.pdf*] – Cross-section diagrams for cold and warm centres.
 
-| PDF
-| TA_to_PA.pdf (1.5MB) & PAtoTA.pdf (1.1MB) - True Altitude to Pressure Altitude conversions +
-Shared by: captain737 (ID: 980867846424887396 & 980867846718492672)
+| hypoxicwaiter
+| xref:attachment$met/hypoxicwaiter_sigwx_guide.pdf[*hypoxicwaiter_sigwx_guide.pdf*] – SIGWX chart interpretation guide.
 
-| PDF
-| Cold_Warm_Centres_Cross_Section.pdf (513KB) - Cross-section diagrams for cold/warm centers +
-Shared by: gallo4310 (ID: 983606681227374613)
-
-| PDF
-| sigwx-interpretation-guide.pdf (732KB) - SIGWX chart interpretation guide +
-Shared by: hypoxicwaiter (ID: 1109827031014834176)
-
-| TXT
-| ATPL_Meteorology_Multimedia_Link.txt (8.4KB) - Video library links following PadPilot chapters +
-Shared by: gp_paladin (ID: 1369591934779265125)
 |===
 
-== Notes

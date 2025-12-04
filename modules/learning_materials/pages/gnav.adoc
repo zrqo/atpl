@@ -1,0 +1,119 @@
+= General Navigation - Community Learning Materials
+
+:page-nav-title: General Navigation Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249820939550770[#gnav-learning-materials]
+====
+
+== Google Drive resources
+[cols="20%,80%"]
+|===
+| Submitter | Link
+
+| eliottlerouge
+| Comprehensive ATPL Summary Notes (student-compiled) +
+A well-known set of multi-subject ATPL notes created by Eliott and shared to assist others preparing for ATPL exams.  
+https://drive.google.com/file/d/12u5yBNbhEfgSxffkDUwL0uqRmYAfhu1v/view?usp=sharing
+
+| nico51beve2
+| Oxford ATPL CBT folder +
+A shared folder containing Oxford CBT materials used by students for consolidating theoretical knowledge.  
+https://drive.google.com/drive/folders/1kfnOwWdpd4RQkCAU3ZizwcB_nsIvrN8e?usp=sharing
+
+| Anonymous
+| General Navigation & Training Video Collection +
+Curated GNAV explanations, worked examples, and related study material.  
+https://drive.google.com/drive/folders/1UIj8H-U7UmB1Hp5cZhsEYk2KvQj76kiH?usp=sharing
+|===
+
+== External resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| flyingsunny
+|  Projection comparison tool +
+https://map-projections.net/compare.php?p1=lambert-conformal-conic&p2=mercator-8
+
+| Anonymous
+| Online E6B calculator +
+https://e6bx.com
+
+| Anonymous
+| Great circle calculator (NOAA) +
+https://www.nhc.noaa.gov/gccalc.shtml
+
+| Anonymous
+| Great-circle formula (Vincenty algorithm) +
+https://www.movable-type.co.uk/scripts/latlong.html
+
+| Anonymous
+| Sunrise/sunset calculations +
+https://www.sunearthtools.com/dp/tools/pos_sun.php
+
+| Anonymous
+| Sun position calculation (almanac questions) +
+https://www.suncalc.org
+|===
+
+== Video resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| mi5a4461
+| GNAV departure formula explanation +
+https://youtu.be/k4-0Uk2aWRE?si=liRWVVYACfwWYD5g
+
+| mi5a4461
+| Same GNAV departure video (alternate embed) +
+https://www.youtube.com/watch?v=k4-0Uk2aWRE
+
+| mi5a4461
+| ATPL Tips channel +
+https://www.youtube.com/channel/UCBg4ILtj8oVqcGP_Uo-OfIg
+
+| gucciprincethe1st
+| GNAV video walkthrough, timestamped +
+https://www.youtube.com/watch?v=pWuuRPqj9yc&t=653s&ab_channel=OwenSims
+
+| gucciprincethe1st
+| Same video, different timestamp +
+https://www.youtube.com/watch?v=pWuuRPqj9yc&start=653
+
+| nunxuc
+| GNAV playlist #1 +
+https://youtube.com/playlist?list=PLcW-kjuuRl2LdEn9SQlklDwHcWGzMbJbE&si=otoGQDpEDq34y72t
+
+| nunxuc
+| GNAV playlist #2 +
+https://youtube.com/playlist?list=PLncfeagBRbBd8MTQd_jNSxKKXM6jzBkK7&si=uGAG4zQ4I-yJzsk-
+
+| nunxuc
+| E6B/CRP-5 calculation tutorial +
+https://www.youtube.com/watch?v=uC6SNKcHB9U
+|===
+
+== Files stored locally 
+[cols="20%,80%"]
+|===
+| Submitter | File & Description
+
+| eliottlerouge
+| xref:attachment$gnav/eliott_johnson_gnav.pdf[*eliott_johnson_gnav.pdf*] Comprehensive notes from Eliott Johnson.
+
+| cptairman
+| xref:attachment$gnav/cptairman_gnav_hand_notes.pdf[*cptairman_gnav_hand_notes.pdf*]  Handwritten notes.
+
+| cptairman
+| xref:attachment$gnav/cptairman_gnav.pdf[*cptairman_gnav.pdf*] – More personal notes by CPTairman.
+
+| salalam
+| xref:attachment$gnav/salalam_gnav_3.pdf[*salalam_gnav_3.pdf*] – Another copy/set of GNAV notes shared in channel.
+
+| mln349tommaso
+| xref:attachment$gnav/mln349tommaso_consolidated.pdf[*mln349tommaso_consolidated.pdf*] – Consolidated GNAV notes.
+|===

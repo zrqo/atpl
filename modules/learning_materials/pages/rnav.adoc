@@ -1,0 +1,39 @@
+= Radio Navigation - Community Learning Materials
+
+:page-nav-title: Radio Navigation Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249860248305664[#rnav-learning-materials]
+====
+
+
+== Google Drive Resources
+[cols="20%,80%"]
+|===
+| Submitter | Description & Link
+
+| Anonymous
+| Radio navigation study notes.
+https://drive.google.com/drive/mobile/folders/1zgPpKQjISrFQFomPhOYeamKqWAsra96E
+|===
+
+== Files stored locally
+
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| eliottlerouge
+| xref:attachment$rnav/eliott_johnson_rnav.pdf[*eliott_johnson_rnav.pdf*] – Personal notes shared by Eliott Johnson.
+
+| cptairman
+| xref:attachment$rnav/cptairman_rnav.pdf[*cptairman_rnav.pdf*] – CPTairman's personal RNAV notes.
+
+| rafaelbanha
+| xref:attachment$rnav/rafaelbanha_rnav.pdf[*rafaelbanha_rnav.pdf*] – RNAV notes shared by rafaelbanha.
+
+| Anonymous
+| xref:attachment$rnav/anon_rnav.pdf[*anon_rnav.pdf*] – More notes from an anonymous contributor.
+|===

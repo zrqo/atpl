@@ -37,7 +37,9 @@ This site runs on a FreeBSD jail so ZFS snapshots can be provided on request.  I
 * [ ] LMs remaining subjects
 * [ ] basic pages / layout / design
 * [ ] TKI lists ?
-
+* [ ] List of permitted equipment / calculators
+* [ ] Exam question counts, distributions, and permitted times
+* [ ] explainer on sittings/attempts
 
 == Licence & Disclaimer
 All study materials and content on this site are provided by community contributors and are licensed under CC BY-SA 4.0 unless otherwise stated. You are free to use, share, and adapt these materials, provided you give appropriate credit and share any modifications under the same licence.
