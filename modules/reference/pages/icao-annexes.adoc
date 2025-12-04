@@ -1,10 +1,8 @@
 = ICAO Annexes
 
-[IMPORTANT]
+[NOTE]
 ====
 The annexes may not be printed due to copyright restrictions. The ICAO offers commercially available printouts and digital subscriptions on its website.
-
-The publication of the following documents serves as an illustration and the authority assumes no liability for their correctness or completeness.
 ====
 
 ====
