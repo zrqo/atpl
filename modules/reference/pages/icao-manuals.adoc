@@ -1,0 +1,36 @@
+= ICAO Manuals to ICAO Annex 14
+
+====
+Source:
+link:https://www.bazl.admin.ch/bazl/en/home/themen/legislation/anhaenge-icao/manuals-zu-icao-annex-14.html[FOCA/Switzerland]
+====
+
+== Procedures for Air Navigation Services (PANS)
+
+=== Air Traffic Management (PANS ATM)
+ICAO Doc 4444: Air Traffic Management - 16th ed. 2016
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/SI/rechtliche_grundlagen_richtlinien_hilfsmittel-flugplaetze/icao_doc_4444_airtrafficmanagement.pdf.download.pdf/icao_doc_4444_airtrafficmanagement.pdf[Download PDF]
+
+=== Aircraft Operations (PANS OPS)
+ICAO Doc 8168: Aircraft Operations, Vol I - Flight Procedures, 6th ed. 2018
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/SI/rechtliche_grundlagen_richtlinien_hilfsmittel-flugplaetze/icao_doc_8168_aircraftoperations.pdf.download.pdf/icao_doc_8168_aircraftoperations.pdf[Download Vol I PDF]
+
+ICAO Doc 8168: Aircraft Operations, Vol II - Construction of Visual and Instrument Flight Procedures, 7th ed. 2020
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/SI/rechtliche_grundlagen_richtlinien_hilfsmittel-flugplaetze/icao_doc8168_volume_2.pdf.download.pdf/icao_doc8168_volume_2.pdf[Download Vol II PDF]
+
+ICAO Doc 8168: Aircraft Operations, Vol III - Aircraft Operating Procedures, 1st ed. 2018
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/SI/rechtliche_grundlagen_richtlinien_hilfsmittel-flugplaetze/icao_doc_8168_aircraft_operations_volume_iii.pdf.download.pdf/8168_v3_cons_en.pdf[Download Vol III PDF]
+
+=== Aerodromes (PANS ADR)
+ICAO Doc 9981: Aerodromes - 3rd ed. 2020
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/SI/rechtliche_grundlagen_richtlinien_hilfsmittel-flugplaetze/icao_doc_9981_pans-aerodromes.pdf.download.pdf/ICAO%20doc%209981%20PANS-Aerodromes.pdf[Download PDF]
+
+=== Aeronautical Information Management (PANS AIM)
+ICAO Doc 10066: Aeronautical Information Management - 1st ed. 2018
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/SI/rechtliche_grundlagen_richtlinien_hilfsmittel-flugplaetze/icao-doc_10066-aeronautical_information_management.pdf.download.pdf/ICAO%20Doc%2010066%20Aeronautical%20Information%20Management.pdf[Download PDF]

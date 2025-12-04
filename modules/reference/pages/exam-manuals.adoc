@@ -1,0 +1,29 @@
+= ATPL Examination Manuals
+
+The UK CAA publishes several essential reference manuals containing specimen data for generic aircraft types. These make up the primary reference material for the Performance (aeroplanes), Mass and Balance, and Flight Planning & Monitoring exams.
+
+== CAA Civil Aviation Publications (CAPs)
+
+=== CAP 696 - Mass and Balance
+
+Supports training and examinations for Part-FCL ATPL Subject 031 (Mass and Balance for Aeroplanes).
+
+* *Edition:* Third Edition
+* *Date:* July 2006
+* *Download:* https://www.caa.co.uk/our-work/publications/documents/content/cap-696/[CAP 696 PDF (250KB)]
+
+=== CAP 697 - Flight Planning and Monitoring
+
+Supports training and examinations for Part-FCL ATPL Subject 033 (Flight Planning and Monitoring for Aeroplanes).
+
+* *Edition:* Second Edition (corrected)
+* *Date:* September 2006
+* *Download:* https://www.caa.co.uk/our-work/publications/documents/content/cap-697/[CAP 697 PDF (723KB)]
+
+=== CAP 698 - Performance
+
+Supports training and examinations for Part-FCL ATPL Subject 032 (Performance for Aeroplanes).
+
+* *Edition:* Third Edition (corrected)
+* *Date:* September 2006
+* *Download:* https://www.caa.co.uk/our-work/publications/documents/content/cap-698/[CAP 698 PDF (623KB)]

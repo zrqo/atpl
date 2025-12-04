@@ -1,0 +1,96 @@
+= Performance - Community Learning Materials
+This page collects Aircraft Performance notes contributed by members of our study community.
+
+====
+Original discussion channel:  
+link:https://discord.com/channels/823542587301429248/824249399236100137[#perf-learning-materials]
+====
+
+== External Resources
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & Link
+
+|atmash
+|ATPL theory resource site used widely for refreshed explanations and tables.  
+https://www-jo.se/f.pfleger/atpl/
+
+|jumanji1789
+|Clear and structured performance explanations, including worked examples and diagrams.  
+https://pilotinterviewhandbook.com/performance/
+
+|hnrQ
+|OneNote ATPL Performance notebook (cloud-hosted on OneDrive).  
+https://1drv.ms/o/s!AnqgDzvHfKVsngCfhShGW0fPcvjc
+|===
+
+== Video Resources
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & Link
+
+|tuning487
+|ATPLQ Performance deep-dive with Capt. Joe commentary; good for revisiting misunderstood topics.  
+https://www.youtube.com/watch?v=ramJkrA4C1s
+
+|soflamg
+|Vmcg explained clearly with practical examples; good reinforcement of takeoff performance theory.  
+https://www.youtube.com/watch?v=DL-kmbEk2rQ
+
+|cimarum
+|Large Aircraft Performance playlist covering takeoff, landing, climb, obstacles, factors, and CAP698 methods.  
+https://www.youtube.com/playlist?list=PLIwDIOqR-ET0zDMQtsPiE2cbtBNjX7c7_
+
+|Anonymous
+|Worked CAP 698 example (Graph 2.1), showing full method for TODR including wind, slope, grass and clearway/stopway.  
+https://www.youtube.com/watch?v=IWwFcANY5kU
+|===
+
+== Files stored locally
+
+[cols="20%,80%",options="header"]
+|===
+|Submitter |Description & File
+
+|Anonymous
+|xref:attachment$perf/acft_perf_key_notes.pdf[*acft_perf_key_notes.pdf*] — Concise performance quick-reference “keys” notes.
+
+|Anonymous
+|xref:attachment$perf/atplgs_perf_factors.pdf[*atplgs_perf_factors.pdf*] — ATPL Ground School sheet summarising major performance factors.
+
+|Anonymous
+|xref:attachment$perf/factors.pdf[*factors.pdf*] — Short factors summary widely circulated among early-stage students.
+
+|Foxtrot_Sierra
+|xref:attachment$perf/foxtroc_per_notes.pdf[*foxtroc_per_notes.pdf*] — Foxtrot’s structured handwritten-style revision notes.
+
+|fede.rico
+|xref:attachment$perf/perf1_combinato_1.pdf[*perf1_combinato_1.pdf*] — Large combined set of performance study materials merged into one reference pack.
+
+|iman0443
+|xref:attachment$perf/perf_nums_one_sheet.pdf[*perf_nums_one_sheet.pdf*] — One-page cheat sheet of key performance numbers and relationships.
+
+|alaawi
+|xref:attachment$perf/perf_rev_aid1.pdf[*perf_rev_aid1.pdf*] — Full revision aid with diagrams, tables, and exam-oriented breakdowns.
+
+|Anonymous
+|xref:attachment$perf/perf_takeoff_v_spds1.pdf[*perf_takeoff_v_spds1.pdf*] — Quick summary sheet of takeoff V-speeds.
+
+|cmr2525
+|xref:attachment$perf/perf_tk_notes.pdf[*perf_tk_notes.pdf*] — TK comparison notes highlighting updated learning objectives and tricky exam areas.
+
+|cptairman
+|xref:attachment$perf/performance.pdf[*performance.pdf*]  
+xref:attachment$perf/performance.docx[*performance.docx*] — Comprehensive performance study notes compiled from personal revision and Q-bank insights.
+
+|Anonymous
+|xref:attachment$perf/performance_atplq.pdf[*performance_atplq.pdf*] — ATPLQ-focused performance study pack used by multiple recent exam takers.
+
+|Eliott Johnson
+|xref:attachment$perf/performance_eliott_johnson.pdf[*performance_eliott_johnson.pdf*] — Clean, well-structured performance document from Eliott Johnson’s revision set.
+
+|Anonymous
+|xref:attachment$perf/pof_perf_formulas.docx[*pof_perf_formulas.docx*] — Compact formula sheet combining PoF and Performance equations.
+|===

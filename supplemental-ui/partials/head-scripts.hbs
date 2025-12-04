@@ -27,16 +27,23 @@
     border-color: #FFFFFF;
   }
 
-  /* =========================================
+/* =========================================
      2. DESKTOP SPECIFIC BEHAVIOR (Min-Width 1024px)
      ========================================= */
   @media screen and (min-width: 1024px) {
-    /* Bold Hover Effect: Dark Red Background, White Text */
-    .navbar-end > .navbar-item:hover,
-    .navbar-end > .navbar-link:hover {
+    /* 1. General Hover Effect (For single buttons like Home or the Icon) */
+    .navbar-end .navbar-item:hover,
+    .navbar-end .navbar-link:hover {
       background-color: var(--brand-hover);
       color: #FFFFFF;
       transition: background-color 0.2s ease;
+    }
+
+    /* 2. FIX: Specific rule for Dropdowns (Products, Services) 
+       This stops them turning BLACK when you hover over them. */
+    .navbar-item.has-dropdown:hover .navbar-link {
+      background-color: var(--brand-hover) !important;
+      color: #FFFFFF !important;
     }
   }
 

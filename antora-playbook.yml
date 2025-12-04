@@ -1,5 +1,5 @@
 site:
-  title: zrqo docs test
+  title: ATPL network [test site]
   start_page: ROOT::index.adoc
 content:
   sources:

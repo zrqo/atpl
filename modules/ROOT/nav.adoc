@@ -1,10 +1,17 @@
 * xref:index.adoc[Home]
-* xref:index.adoc[About]
+* xref:about.adoc[About]
+* xref:contribute.adoc[Contribute]
 * xref:downloads.adoc[Downloads]
+
+.Learning Materials
+* xref:learning_materials:perf.adoc[Performance]
+* xref:learning_materials:pof.adoc[Principles of Flight]
 
 .Guides
 * xref:guides:getting-started.adoc[Getting Started]
 * xref:guides:basic-usage.adoc[Basic Usage]
 
 .Reference
+** xref:reference:exam-manuals.adoc[Exam manuals]
 ** xref:reference:icao-annexes.adoc[ICAO Annexes]
+** xref:reference:icao-manuals.adoc[ICAO Manuals]

@@ -1,0 +1,94 @@
+= Principles of Flight – Community Learning Materials
+
+:page-nav-title: PoF Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249272869584906[#pof-learning-materials]
+====
+
+== External resources
+[cols="20%,80%", options="header"]
+|===
+|Submitter |Description & Link
+
+|maxime07565
+|*ATPL Formulas* — concise formulas booklet.  
+https://drive.google.com/file/d/18JkXUIavpiJfM_UesEI_7889GT8KET1v/view
+
+|cptairman
+|*Full ATPL Notes (all subjects)* — complete personal notes shared as a Google Drive folder.  
+https://drive.google.com/drive/folders/1_Y4QHaPUHxD1AUhZlf8rKbS0xHKJ49ZY
+
+|Anonymous
+|*General ATPL Notes (multiple subjects)* — shared Google Drive folder of assorted materials.  
+https://drive.google.com/drive/folders/1kBnG26VQ-uzY31R_s1JKdEykwhiglFGk
+|===
+
+== Video resources
+[cols="20%,80%", options="header"]
+|===
+|Submitter |Description & Link
+
+|supermode_
+|*ATPL Class YouTube Channel* — full set of theoretical lessons including PoF topics.  
+https://www.youtube.com/channel/UCCVJ1EUYMO7UaBjEUWPyXTA
+
+|Captain Chandan
+|*ATPL Principles of Flight explanations* — multiple PoF videos including gyroscopic precession.  
+https://www.youtube.com/channel/UCTDeQl83HjxGlExxHt_sF9Q
+
+|Aviator Tisha
+|*ATPL explanation videos* — general theory and PoF subjects.  
+https://www.youtube.com/channel/UCcw-Ksc3WavorscdxYNTyEw
+
+|yourbroraphe
+|*Gyroscopic Precession (PoF)* — focused explainer video.  
+https://www.youtube.com/watch?v=sPbJidqQ-to
+
+|petejhb_99046
+|*PoF Playlist (legacy CAE-style)* — widely used PoF training playlist.  
+https://youtube.com/playlist?list=PLQRb_vTM8AVrJtVm6ze_I0VLu2x74Nj8U
+
+|dan_koester
+|*High Speed Flight (Part 1)* — CAE PoF video frequently referenced by students.  
+https://www.youtube.com/watch?v=6xIsYcNHeZg
+|===
+
+
+== Files stored locally
+[cols="20%,80%", options="header"]
+|===
+|Submitter |Description & File
+
+|fede.rico
+|xref:attachment$pof/pof_atplq.pdf[*pof_atplq.pdf*] — Curated explanations and “best comments” from ATPLQ PoF questions.
+
+|cptairman
+|xref:attachment$pof/pof_cptairman.docx[*pof_cptairman.docx*] / xref:attachment$pof/pof_cptairman.pdf[*pof_cptairman.pdf*] — Personal PoF notes; practical consolidation material.
+
+|anatoliy1281
+|xref:attachment$pof/pof_q.pdf[*pof_q.pdf*] — Principles of Flight arranged by ATPLQ topic headings.
+
+|zinnieminnie_52891
+|xref:attachment$pof/pof_notes.pdf[*pof_notes.pdf*] — Large, comprehensive all-in-one PoF reference (~2.25 MB).
+
+|scouseman68
+|xref:attachment$pof/pof_formulas.pdf[*pof_formulas.pdf*] — Short PoF formula sheet focused on key equations.
+
+|anatoliy1281
+|xref:attachment$pof/pof_q_large.pdf[*pof_q_large.pdf*] — Larger expanded PoF pack also aligned to ATPLQ topic structure.
+
+|eliottlerouge
+|xref:attachment$pof/principle_of_flight_eliott_johnson.pdf[*principle_of_flight_eliott_johnson.pdf*] — Summary-style PoF document from Eliott Johnson’s ATPL revision set.
+
+|MintyFS
+|xref:attachment$pof/pof_detailed_notes_mintyfs.pdf[*pof_detailed_notes_mintyfs.pdf*] — Detailed and highly structured PoF notes.
+
+|akh4856
+|xref:attachment$pof/stability_notes_atplq.pdf[*stability_notes_atplq.pdf*] — Stability-specific notes covering the whole ATPLQ stability section.
+|===
+
+
+

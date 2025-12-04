@@ -1,8 +1,44 @@
-= zrqo's antora demo
+= ATPL NETWORK test page
 
-Welcome to zrqo's zosa antora test site.
+Welcome stranger!
 
-== This works.... yay...
+This is a community-built knowledge repository for anyone studying towards the EASE/UK ATPL exams. Here you'll find rough study notes, reference materials, and learning resources contributed by past students.
 
-We are now successfully running antora on FreeBSD inside a jail.
+We also present general guidance emerging from frequent discussions on our Discord server.  
 
+This is a living site and all community members are invited to contribute their own notes and proposed amendments and additions.
+
+This test repository has been built using Antora.  All content lives on GitHub.  If you wish to add something or fix mistakes, you may fork the repository, then suggest changes back to us through a pull request.  Alternatively suggestions may be made on the Discord server.
+
+This site runs on a FreeBSD jail so ZFS snapshots can be provided on request.  It is not dependent on third-party hosting platforms.
+
+== To do
+
+* [x] Add CAPs
+* [ ] Link annexes to BAZL 
+* [ ] set content url source to github
+* [ ] about / contribute / download pages
+* [ ] main menus
+* [ ] logo/discord link... etc
+* [ ] set up github org page for contributors
+* [ ] FAQs esp on licensing pitfalls / common concerns
+* [ ] ACG extn ctr lists
+* [ ] interpretation of sittings by NAA
+* [ ] LOs
+* [ ] QBs
+* [ ] TKC ATOs
+* [ ] ELP / LAs
+* [ ] EDD / examiner lists / ATO/DTO lists
+* [ ] software / equipment
+* [ ] link back to discord server classifieds
+* [ ] study groups / meet ups
+* [ ] LMs remaining subjects
+* [ ] basic pages / layout / design
+* [ ] TKI lists ?
+
+
+== Licence & Disclaimer
+All study materials and content on this site are provided by community contributors and are licensed under CC BY-SA 4.0 unless otherwise stated. You are free to use, share, and adapt these materials, provided you give appropriate credit and share any modifications under the same licence.
+
+Disclaimer: These materials are provided for educational purposes only. While we strive for accuracy, this is a community-maintained resource and should not be considered a substitute for official EASA/UK CAA training materials or professional instruction. Always verify information against authoritative sources, and use these notes to supplement, not replace, your formal study course.
+By contributing to this repository, you agree to licence your contributions under CC BY-SA 4.0.

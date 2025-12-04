@@ -1,75 +1,97 @@
 = ICAO Annexes
 
+[IMPORTANT]
+====
 The annexes may not be printed due to copyright restrictions. The ICAO offers commercially available printouts and digital subscriptions on its website.
 
 The publication of the following documents serves as an illustration and the authority assumes no liability for their correctness or completeness.
+====
+
+====
+Source:
+link:https://www.bazl.admin.ch/bazl/en/home/themen/legislation/anhaenge-icao.html[FOCA/Switzerland]
+====
+
 
 == Annex 1: Personnel Licensing
-* link:{attachmentsdir}/icao_annexes/icao_annex_1_personnellicensing.pdf[ICAO Annex 1, Personnel Licensing] _(14th edition - Amendment 179)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_1_personnellicensing.pdf.download.pdf/icao_annex_1_personnellicensing.pdf[ICAO Annex 1, Personnel Licensing] _(14th ed. - AMDT 179)_
 
 == Annex 2: Rules of the Air
-* link:{attachmentsdir}/icao_annexes/icao_annex_2_rulesoftheair.pdf[ICAO Annex 2, Rules of the Air] _(11th edition - Amendment 48)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_2_rulesoftheair.pdf.download.pdf/icao_annex_2_rulesoftheair.pdf[ICAO Annex 2, Rules of the Air] _(11th ed. - AMDT 48)_
 
 == Annex 3: Meteorological Service for International Air Navigation
-* link:{attachmentsdir}/icao_annexes/icao_annex_3_meteorologicalserviceforinternationalairnavigation.pdf[ICAO Annex 3, Meteorological Service for International Air Navigation] _(Twentieth Edition - Amendment 81)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_3_meteorologicalserviceforinternationalairnavigation.pdf.download.pdf/icao_annex_3_meteorologicalserviceforinternationalairnavigation.pdf[ICAO Annex 3, Meteorological Service for International Air Navigation] _(20th ed. - AMDT 81)_
 
 == Annex 4: Aeronautical Charts
-* link:{attachmentsdir}/icao_annexes/an04_cons.pdf[ICAO Annex 4, Aeronautical Charts] _(Eleventh Editon - Amendment 62)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an04_cons.pdf.download.pdf/an04_cons.pdf[ICAO Annex 4, Aeronautical Charts] _(11th ed. - AMDT 62)_
 
 == Annex 5: Units of Measurement to be Used in Air and Ground Operations
-* link:{attachmentsdir}/icao_annexes/icao_annex_5_unitsofmeasurementtobeusedinairandgroundoperations.pdf[ICAO Annex 5, Units of Measurement to be Used in Air and Ground Operations] _(5th edition - Amendment 17)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_5_unitsofmeasurementtobeusedinairandgroundoperations.pdf.download.pdf/icao_annex_5_unitsofmeasurementtobeusedinairandgroundoperations.pdf[ICAO Annex 5, Units of Measurement to be Used in Air and Ground Operations] _(5th ed. - AMDT 17)_
 
 == Annex 6: Operation of Aircraft
-* link:{attachmentsdir}/icao_annexes/AN06_P1_cons.pdf[Part I - International Commercial Air Transport - Aeroplanes] _(12th edition - Amendment 49)_
-* link:{attachmentsdir}/icao_annexes/an06_p2_cons.pdf[Part II — International General Aviation - Aeroplanes] _(11th Edition - Amendment 41)_
-* link:{attachmentsdir}/icao_annexes/an06_p3_cons.pdf[Part III - International Operations - Helicopters] _(11th Edition - Amendment 25)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/AN06_P1_cons.pdf.download.pdf/AN06_P1_cons.pdf[Part I - International Commercial Air Transport - Aeroplanes] _(12th ed. - AMDT 49)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an06_p2_cons.pdf.download.pdf/an06_p2_cons.pdf[Part II — International General Aviation - Aeroplanes] _(11th ed. - AMDT 41)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an06_p3_cons.pdf.download.pdf/an06_p3_cons.pdf[Part III - International Operations - Helicopters] _(11th ed. - AMDT 25)_
 
 == Annex 7: Aircraft Nationality and Registration Marks
-* link:{attachmentsdir}/icao_annexes/icao_annex_7_aircraftnationalityandregistrationmarks.pdf[ICAO Annex 7, Aircraft Nationality and Registration Marks] _(6th edition - Amendment 7)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_7_aircraftnationalityandregistrationmarks.pdf.download.pdf/icao_annex_7_aircraftnationalityandregistrationmarks.pdf[ICAO Annex 7, Aircraft Nationality and Registration Marks] _(6th ed. - AMDT 7)_
 
 == Annex 8: Airworthiness of Aircraft
-* link:{attachmentsdir}/icao_annexes/an08_cons.pdf[ICAO Annex 8, Airworthiness of Aircraft] _(13th edition - Amendment 109)_
-* link:{attachmentsdir}/icao_annexes/9760_cons_en.pdf[ICAO Doc 9760, Airworthiness Manual] _(Fourth Edition, 2020)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an08_cons.pdf.download.pdf/an08_cons.pdf[ICAO Annex 8, Airworthiness of Aircraft] _(13th ed. - AMDT 109)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/9760_cons_en.pdf.download.pdf/9760_cons_en.pdf[ICAO Doc 9760, Airworthiness Manual] _(4th ed., 2020)_
 
 == Annex 9: Facilitation
-* link:{attachmentsdir}/icao_annexes/icao_annex_9_facilitation.pdf[ICAO Annex 9, Facilitation] _(Sixteenth edition - Amendment 29)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_9_facilitation.pdf.download.pdf/icao_annex_9_facilitation.pdf[ICAO Annex 9, Facilitation] _(16th ed. - AMDT 29)_
 
 == Annex 10: Aeronautical Telecommunications
-* link:{attachmentsdir}/icao_annexes/icao_annex_10_aeronauticaltelecommunicationsvolumei-radionavigat.pdf[Volume I - Radio Navigation Aids] _(8th edition - Amendment 93)_
-* link:{attachmentsdir}/icao_annexes/AN10_V2_cons.pdf[Volume II - Communication Procedures including those with PANS Status] _(Seventh Edition - Amendment 93)_
-* link:{attachmentsdir}/icao_annexes/AN10_V3_cons.pdf[Volume III - Communications Systems] _(Second edition - Amendment 92)_
-* link:{attachmentsdir}/icao_annexes/icao_annex_10_aeronauticaltelecommunicationsvolumeiv-surveillanc.pdf[Volume IV - Surveillance Radar and Collision Avoidance Systems] _(Fifth edition - Amendment 91)_
-* link:{attachmentsdir}/icao_annexes/icao_annex_10_aeronauticaltelecommunicationsvolumev-aeronautical.pdf[Volume V - Aeronautical Radio Frequency Spectrum Utilization] _(Third edition - Amendment 89)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_10_aeronauticaltelecommunicationsvolumei-radionavigat.pdf.download.pdf/icao_annex_10_aeronauticaltelecommunicationsvolumei-radionavigat.pdf[Vol I - Radio Navigation Aids] _(8th ed. - AMDT 93)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/AN10_V2_cons.pdf.download.pdf/AN10_V2_cons.pdf[Vol II - Communication Procedures including those with PANS Status] _(7th ed. - AMDT 93)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/AN10_V3_cons.pdf.download.pdf/AN10_V3_cons.pdf[Vol III - Communications Systems] _(2nd ed. - AMDT 92)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_10_aeronauticaltelecommunicationsvolumeiv-surveillanc.pdf.download.pdf/icao_annex_10_aeronauticaltelecommunicationsvolumeiv-surveillanc.pdf[Vol IV - Surveillance Radar and Collision Avoidance Systems] _(5th ed. - AMDT 91)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_10_aeronauticaltelecommunicationsvolumev-aeronautical.pdf.download.pdf/icao_annex_10_aeronauticaltelecommunicationsvolumev-aeronautical.pdf[Vol V - Aeronautical Radio Frequency Spectrum Utilization] _(3rd ed. - AMDT 89)_
 
 == Annex 11: Air Traffic Services
-* link:{attachmentsdir}/icao_annexes/an11_cons.pdf[ICAO Annex 11, Air Traffic Services] _(Fifteenth Edition - Amendment 53)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an11_cons.pdf.download.pdf/an11_cons.pdf[ICAO Annex 11, Air Traffic Services] _(15th ed. - AMDT 53)_
 
 == Annex 12: Search and Rescue
-* link:{attachmentsdir}/icao_annexes/icao_annex_12_searchandrescue.pdf[ICAO Annex 12, Search and Rescue] _(Ninth edition - Amendment 19)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_12_searchandrescue.pdf.download.pdf/icao_annex_12_searchandrescue.pdf[ICAO Annex 12, Search and Rescue] _(9th ed. - AMDT 19)_
 
 == Annex 13: Aircraft Accident and Incident Investigation
-* link:{attachmentsdir}/icao_annexes/AN13_cons.pdf[ICAO Annex 13, Aircraft Accident and Incident Investigation] _(13th Edition - Amendment 19)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/AN13_cons.pdf.download.pdf/AN13_cons.pdf[ICAO Annex 13, Aircraft Accident and Incident Investigation] _(13th ed. - AMDT 19)_
 
 == Annex 14: Aerodromes
-* link:{attachmentsdir}/icao_annexes/an14_v1_cons.pdf[Volume I - Aerodrome Design and Operations] _(Ninth edition - Amendment 17)_
-* link:{attachmentsdir}/icao_annexes/AN14_V2_cons.pdf[Volume II - Heliports] _(Fifth edition - Amendment 9)_
-* link:{attachmentsdir}/icao_annexes/differences_icaoannex14volumei-aerodromeandvolumeii-heliports.pdf[Differences Volume I & II]
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an14_v1_cons.pdf.download.pdf/an14_v1_cons.pdf[Vol I - Aerodrome Design and Operations] _(9th ed. - AMDT 17)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/AN14_V2_cons.pdf.download.pdf/AN14_V2_cons.pdf[Vol II - Heliports] _(5th ed. - AMDT 9)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/differences_icaoannex14volumei-aerodromeandvolumeii-heliports.pdf.download.pdf/differences_icaoannex14volumei-aerodromeandvolumeii-heliports.pdf[Differences Vol I & II]
 
 == Annex 15: Aeronautical Information Services
-* link:{attachmentsdir}/icao_annexes/an15_cons.pdf[ICAO Annex 15, Aeronautical Information Services] _(Sixteenth Edition - Amendment 43)_
-* link:{attachmentsdir}/icao_annexes/ICAO%20Doc%208126%20Aeronautical%20Information%20Services%20Manual.pdf[ICAO Doc 8126: Aeronautical Information Services Manual] _(7th Edition - Amendment 1)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an15_cons.pdf.download.pdf/an15_cons.pdf[ICAO Annex 15, Aeronautical Information Services] _(16th ed. - AMDT 43)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/ICAO%20Doc%208126%20Aeronautical%20Information%20Services%20Manual.pdf.download.pdf/ICAO%20Doc%208126%20Aeronautical%20Information%20Services%20Manual.pdf[ICAO Doc 8126: Aeronautical Information Services Manual] _(7th ed. - AMDT 1)_
 
 == Annex 16: Environmental Protection
-* link:{attachmentsdir}/icao_annexes/icao_annex_16_environmentalprotectionvolumei-aircraftnoise.pdf[Volume I - Aircraft Noise] _(Eighth edition - Amendment 14)_
-* link:{attachmentsdir}/icao_annexes/icao_annex_16_environmentalprotectionvolumeii-aircraftengineemis.pdf[Volume II - Aircraft Engine Emissions] _(Fitfth edition - Amendment 11)_
-* link:{attachmentsdir}/icao_annexes/icao_annex_16_environmentalprotectionvolumeiii_co2.pdf[Volume III – Aeroplane CO2 Emissions] _(First Edition)_
-* link:{attachmentsdir}/icao_annexes/icao_annex_16_environmentalprotectionvolumeiv-corsia.pdf[Volume IV – CORSIA] _(Second Edition)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_16_environmentalprotectionvolumei-aircraftnoise.pdf.download.pdf/icao_annex_16_environmentalprotectionvolumei-aircraftnoise.pdf[Vol I - Aircraft Noise] _(8th ed. - AMDT 14)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_16_environmentalprotectionvolumeii-aircraftengineemis.pdf.download.pdf/icao_annex_16_environmentalprotectionvolumeii-aircraftengineemis.pdf[Vol II - Aircraft Engine Emissions] _(5th ed. - AMDT 11)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_16_environmentalprotectionvolumeiii_co2.pdf.download.pdf/icao_annex_16_environmentalprotectionvolumeiii_co2.pdf[Vol III – Aeroplane CO2 Emissions] _(1st ed.)_
+
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_16_environmentalprotectionvolumeiv-corsia.pdf.download.pdf/icao_annex_16_environmentalprotectionvolumeiv-corsia.pdf[Vol IV – CORSIA] _(2nd ed.)_
 
 == Annex 17: Security
-* link:{attachmentsdir}/icao_annexes/icao_annex_17_security.pdf[ICAO Annex 17, Security] _(12th edition - Amendment 18)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_17_security.pdf.download.pdf/icao_annex_17_security.pdf[ICAO Annex 17, Security] _(12th ed. - AMDT 18)_
 
 == Annex 18: The Safe Transport of Dangerous Goods by Air
-* link:{attachmentsdir}/icao_annexes/icao_annex_18_thesafetransportofdangerousgoodsbyair.pdf[ICAO Annex 18, The Safe Transport of Dangerous Goods by Air] _(Fourth edition - Amendment 12)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/icao_annex_18_thesafetransportofdangerousgoodsbyair.pdf.download.pdf/icao_annex_18_thesafetransportofdangerousgoodsbyair.pdf[ICAO Annex 18, The Safe Transport of Dangerous Goods by Air] _(4th ed. - AMDT 12)_
 
 == Annex 19: Safety Management
-* link:{attachmentsdir}/icao_annexes/an19_2ed.pdf[ICAO Annex 19, Safety Management] _(Second Edition - Amendment 1)_
+https://www.bazl.admin.ch/dam/bazl/en/dokumente/Fachleute/Regulationen_und_Grundlagen/icao-annex/an19_2ed.pdf.download.pdf/an19_2ed.pdf[ICAO Annex 19, Safety Management] _(2nd ed. - AMDT 1)_
