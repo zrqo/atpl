@@ -1,0 +1,10 @@
+= Communications - Community Learning Materials
+
+:page-nav-title: = Communications - Community Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249684167753778[#comms-learning-materials]
+====
+

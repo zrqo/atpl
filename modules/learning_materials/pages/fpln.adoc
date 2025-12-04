@@ -1,0 +1,47 @@
+= Flight Planning & Flight Monitoring - Community Learning Materials
+
+:page-nav-title: = Flight Planning & Flight Monitoring - Community Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249570573418508[#fpln-learning-materials]
+====
+
+== External Resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| atec
+| Flight Planning notes based on BGS materials. Shared Dec 2021. +
+https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdDBnbVR2OG9kQmwtaHB4aDdKR3h3Y2tFX3NrP2U9TTJIM21x&id=65D0A1FC3B9920DD%2115642&cid=65D0A1FC3B9920DD
+
+| Anonymous
+| Flight Planning & Monitoring notes (Google Drive folder internally attributed to Bryan Vano). Shared Oct 2022. +
+https://drive.google.com/drive/folders/1nAx8fzf79PwjRHe_zbGkV9pM5LwnFEU2
+
+| Anonymous
+| Additional Flight Planning notes (Google Drive folder). Shared Aug 2022. +
+https://drive.google.com/drive/folders/1TNWd6G1cZHd0dTVc5stUzvsoEhdMBFyL
+
+| eliottlerouge
+| Flight Planning & Flight Monitoring notes compiled by Eliott Johnson. Shared Nov 2023. +
+https://drive.google.com/file/d/1_lsCsIFFYTsWehGDHR253OsBxyW16ieE/view?usp=sharing
+|===
+
+== Files stored locally
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| Anonymous
+| xref:attachment$fpln/anon_fpln.pdf[*anon_fpln.pdf*] – Flight Planning notes shared by former member.
+
+| cptairman
+| xref:attachment$fpln/cptairman_fpln.pdf[*cptairman_fpln.pdf*] – Flight Planning & Monitoring notes compiled by CPTairman.
+
+| eliottlerouge
+| xref:attachment$fpln/eliott_johnson_fpln.pdf[*eliott_johnson_fpln.pdf*] – Flight Planning & Monitoring notes by Eliott Johnson.
+
+|===

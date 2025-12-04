@@ -1,0 +1,709 @@
+OPS
+
++------------------------------------------------------------+
+| 0. REFERENCE MAP / WHAT SECTION COVERS                     |
++------------------------------------------------------------+
+| 1. Record keeping / retention times                        |
+| 2. Duty limits / FDP / standby / flight time limits        |
+| 3. Checks / recency / command upgrade                      |
+| 4. Approach types / minima / visual refs                   |
+| 5. Alternates / planning vs dispatch                       |
+| 6. VFR / night / lighting / crew mins                      |
+| 7. Oxygen / pressurized vs unpressurized                   |
+| 8. Equipment thresholds (mass / pax triggers)              |
+| 9. ETOPS / diversions / driftdown / oceanic                |
+| 10. RVSM / turbulence offset / wake                        |
+| 11. Terrain / MOCA / facility minima                       |
+| 12. Manuals / ICAO Annex / responsibility                  |
+| 13. Mnemonics / dirty tricks they love to ask              |
++------------------------------------------------------------+
+
++------------------------------------------------------------+
+| 1. RECORD KEEPING / RETENTION TIMES                        |
++------------------------------------------------------------+
+Time starts from end of flight / event unless stated.
+
+60 DAYS
+
+* Flight recorder (accident). "Flight recorder" = 2 words = 2 months ≈ 60 days.
+
+3 MONTHS (≈ 90 days)
+
+* Operational flight plan ("operational flight plan")
+* Mass and balance / loadsheet
+* Dangerous goods docs
+* Special loads
+  Mnemonic: "3 words 3 months" = Mass and Balance, Operational Flight Plan, Dangerous Goods (dangerous goods is 2 words but lives in that set on exams anyway)
+
+15 MONTHS
+
+* Crew member experience records (logged experience)
+
+24 MONTHS (2 years)
+
+* Flight duty records
+
+36 MONTHS (3 years)
+
+* Aircraft technical log
+* Training records (including DG training)
+* Crew member training + checking records
+* Personal / technical records
+  Mnemonic: "Aircraft Technical Log" = 3 words = 3 years
+
+CRITICAL HOOKS
+
+* They love "aircraft technical log" = 36 months
+* They love "operational flight plan" = 3 months
+* Cockpit voice recorder / flight data recorder timing → see Section 8
+
++------------------------------------------------------------+
+| 2. DUTY LIMITS / FDP / STANDBY / FLIGHT TIME LIMITS        |
++------------------------------------------------------------+
+DUTY PERIOD LIMITS (total duty, not just flight)
+(1) 60 duty hrs in any 7 consecutive days
+(2) 110 duty hrs in any 14 consecutive days
+(3) 190 duty hrs in any 28 consecutive days
+
+FLIGHT TIME LIMITS (actual block time)
+
+* 100 hrs in any 28 consecutive days
+* 900 hrs in a calendar year
+* 1000 hrs in any 12 consecutive calendar months
+
+FDP (FLIGHT DUTY PERIOD)
+
+* Basic maximum FDP can be extended by max 1 hour
+* Unforeseen circumstances: commander can extend up to 3 hours
+* Max basic daily FDP (before extensions): 13 h
+  With approved extension: goes to 15 h
+  Without extension: 13 h
+* Rest away from home base: ≥10 h or as long as previous duty, whichever is greater
+* Night duty window: 02:00-04:59 (home-base body clock)
+* Window of circadian low (WOCL): 02:00-05:59
+
+STANDBY CREDIT
+
+* Standby at airport = 100% counted as duty
+* Standby at home = 25% counted as duty
+
+CONSECUTIVE DUTY ACCUMULATION
+
+* Same 60 / 110 / 190 hr caps apply across combined FDP + standby credit
+
+READ THIS LIKE AN EXAM:
+
+* FDP extendable 1 h by schedule
+* FDP extendable 3 h by commander discretion due to "unforeseen"
+* Daily FDP 13 h basic / 15 h maxed
+* Night duty lives in 02:00-04:59
+
+SO IF THEY ASK:
+"How far can commander extend FDP in unforeseen circumstances?"
+Answer: 3 hours
+
+SO IF THEY ASK:
+"How long can a planned FDP be extended under approved scheme?"
+Answer: 1 hour
+
+STANDBY TRAP:
+Airport standby counts fully as duty time
+
++------------------------------------------------------------+
+| 3. CHECKS / RECENCY / COMMAND UPGRADE                      |
++------------------------------------------------------------+
+VALIDITIES
+
+* OPC (Operator Proficiency Check): 6 months
+  Note: may be 12 months in certain specialised ops, but 6 months is standard airline
+* LPC (Licence Proficiency Check): 12 months
+* Line Check: 12 months
+* Senior Cabin Crew authorization: 12 months
+
+COMMAND COURSE (multi-crew)
+
+* Training in FSTD (includes LOFT) and/or aircraft line training
+* Operator Proficiency Check
+* Command responsibilities training
+* 10 sectors line training as commander under supervision
+
+COMMAND (single pilot ops)
+VFR route to command:
+
+* 500 hrs (or an IR)
+  IFR route to command:
+* 700 hrs total of which >400 hrs PIC
+  and >100 hrs IFR
+
+RECENT EXPERIENCE (to carry pax etc.)
+CAT operations:
+
+* 3 takeoffs, 3 approaches, 3 landings in last 90 days
+
+IFR recency:
+
+* 50 hrs IFR of which 10 hrs PIC
+* 5 IFR flights + 3 instrument approaches in last 90 days
+
+Night recency:
+
+* 15 hrs night (can be part of the 50 above)
+* 3 T/O + 3 landings at night in last 90 days
+
+PILOT IS "INEXPERIENCED" UNTIL:
+
+* 100 flight hours AND 10 sectors within 120 consecutive days (consolidation window)
+  OR
+* 150 flight hours AND 20 sectors (no time limit on consolidation)
+
+READ THIS LIKE AN EXAM:
+
+* "90 days rule" = pax carriage, IFR, and night checks
+* "inexperienced" definition is about consolidation (100/10 in 120 days OR 150/20 anytime)
+
++------------------------------------------------------------+
+| 4. APPROACHES / MINIMA / VISUAL REFERENCE                  |
++------------------------------------------------------------+
+APPROACH TYPES
+
+1. Non-Precision Approach (NPA) = Type A
+2. APV (Approach with Vertical guidance) / CAT I style
+3. Precision Approach (ILS etc.) = Type B
+4. Circling (circling is its own animal)
+
+CAT I / CAT II / CAT III
+CAT I:
+
+* DH 200 ft
+* RVR 550 m
+
+CAT II:
+
+* DH 100 ft
+* RVR 300 m
+
+CAT IIIA:
+
+* DH <100 ft (or 100 ft) and RVR 200 m
+  (often given as DH 100 ft / RVR 200 m)
+
+CAT IIIB:
+
+* No DH (or DH <50 ft)
+* RVR 75 m possible only with fail-operational rollout guidance
+* If only fail-passive, min RVR typically 150 m
+* CAT IIIB no DH with full fail-operational = you basically don't need outside cues
+
+APPROACH VISUAL REFERENCE REQUIRED
+(what you actually must be able to see at DA/DH/MDA to continue)
+
+* NPA / APV / CAT I:
+  Need to see runway, markings, or basically any relevant light
+  (approach lights, threshold, etc.)
+
+* CAT II:
+  Need a segment of 3 consecutive lights, including at least 1 lateral element
+  (lateral = crossbar / TDZ / edge)
+
+* CAT IIIA or IIIB (fail-passive):
+  Need 3 consecutive lights. No lateral element required here.
+
+* CAT IIIB (fail-operational WITH DH):
+  Need to see 1 centerline light
+
+* CAT IIIB (NO DH, true autoland / rollout guidance):
+  No specified visual reference required
+
+READ THIS LIKE AN EXAM:
+If they show "CAT IIIB no DH": answer "no external visual reference required"
+
+PLANNING vs DISPATCH vs OPERATING MINIMA
+
+* Planning stage: use planning minima = forecast weather +/- 1 hour around ETA
+* Dispatch stage: compare with planning minima (not actual)
+* In-flight / approach: you use operating minima (actual RVR/cloud now)
+
+PRECISION vs NON-PRECISION BASIC MEMORY
+
+* Precision (DA/H) ~200 ft, RVR 800 m in the generic/regulatory style table
+* Non-precision (MDA/H) ~400 ft, RVR 1500 m
+  "To go NPA from PA you roughly double" is the mental shortcut
+
+FACILITY-LIMITED LOWEST MDH/DH (ft) THEY LOVE ASKING:
+
+* LOC with/without DME: 250 ft
+* VOR/DME: 250 ft
+* VOR only: 300 ft
+* NDB/DME: 300 ft
+* NDB only: 350 ft
+
+READ THIS LIKE AN EXAM:
+NDB alone always worst (350 ft)
+LOC/DME best (250 ft)
+
++------------------------------------------------------------+
+| 5. ALTERNATES / ETOPS / DISPATCH RULES                     |
++------------------------------------------------------------+
+TAKE-OFF ALTERNATE
+Twin engine (non-ETOPS):
+
+* Must be within 60 min (one engine inoperative cruise speed)
+
+Twin engine (ETOPS approved):
+
+* Can go out to 120 min
+
+3 or 4 engines:
+
+* 120 min
+
+EXAM TRAP:
+If you see "180 minutes" and "120 minutes" in the answers:
+
+* You pick 120 min, because 180 is not standard take-off alternate, that's long-range diversion stuff.
+  If you do NOT see 180, you'll probably pick 60 min (twin non-ETOPS)
+
+DESTINATION ALTERNATE
+
+* "destination alternate -- 2"
+  Meaning: Normally 1 destination alternate is needed. But watch wording.
+  The shortcut you wrote: destination alternate needs 2 (interpretation: you may need 2 alternates under certain bad-weather / isolated aerodrome / no re-dispatch cases). They like:
+
+  * take-off alternate: 1
+  * destination: possibly 2 in certain scenarios
+
+PLANNING MINIMA
+
+* Planning stage uses PLANNING minima (forecast, with time margin)
+* Dispatch compares to Planning minima
+* Actual approach uses OPERATING minima
+
+LVO OPERATOR PROCEDURES (Low Vis Ops, EU 965/2012)
+"MR FLATT"
+M  Missed approach
+R  Rollout
+F  Flare
+L  Land
+A  Approach
+T  Takeoff
+T  Taxi
+Operator must publish all that
+
++------------------------------------------------------------+
+| 6. BASIC OPS LIMITS: VFR / LIGHTS / CABIN CREW             |
++------------------------------------------------------------+
+VFR MINIMA (day VMC in controlled airspace in this memory block style)
+
+* VFR Min: 3000 m vis
+* Special VFR Min: 1500 m vis
+
+AT NIGHT
+DISPLAYED (what must be ON at night in flight):
+
+* Navigation lights
+* Anti-collision lights
+
+EQUIPPED (what must be INSTALLED for night ops):
+
+* Navigation lights
+* Anti-collision light(s)
+* Two landing lights
+
+CABIN CREW MINIMUM
+
+* 1 cabin crew per each fraction of 50 passenger seats
+  Example:
+  1-50 pax seats → 1 CC
+  51-100 pax seats → 2 CC
+  etc.
+
+HAND FIRE EXTINGUISHERS (cabin):
+Seats 7-30   -> 1
+31-60        -> 2
+61-200       -> 3
+201-300      -> 4
+301-400      -> 5
+401-500      -> 6
+501-600      -> 7
+601+         -> 8
+Mnemonic: "1-2-3 then +1 per 100 seats up to max 8"
+
+WAKE TURB SEQUENCING (memorize this, they adore it)
+Landing behind a landing Heavy:
+
+* Land BEYOND the Heavy's touchdown point
+
+Landing behind a Heavy taking off:
+
+* Touch down BEFORE the point where the Heavy lifted off
+
+Taking off behind a landing Heavy:
+
+* Lift off BEYOND its touchdown point
+
+Taking off behind a Heavy taking off:
+
+* Lift off BEFORE the Heavy's rotation point (Vr point)
+
++------------------------------------------------------------+
+| 7. OXYGEN / PRESSURISATION / MASKS                         |
++------------------------------------------------------------+
+COCKPIT QUICK-DONNING MASKS
+
+* Quick-donning masks required at and above FL250 (25 000 ft)
+
+PASSENGER MASKS
+
+* Masks must automatically drop so pax get oxygen by 15 000 ft cabin altitude
+
+SUPPLEMENTAL OXYGEN RULES (generic EASA memory set)
+
+UNPRESSURISED OPS
+Flight crew
+
+* > 10 000 ft cabin altitude: 100% supply available
+  > Cabin crew
+* After 30 min between 10 000 and 13 000 ft
+* 100% above 13 000 ft
+  Passengers
+* 10% of pax between 10 000 and 13 000 ft
+* 100% above 13 000 ft
+
+PRESSURISED OPS (loss of pressurisation case)
+Flight crew + cabin crew
+
+* After 30 min between 10 000 and 13 000 ft
+* 100% above 13 000 ft
+* At least 2 hours of oxygen for crew above 13 000 ft
+  Passengers
+* After 30 min between 10 000 and 14 000 ft: oxygen for 10% pax
+* Between 14 000 and 15 000 ft: oxygen for 30% pax
+* Above 15 000 ft: oxygen for 100% pax
+
+CABIN OXYGEN QUANTITY
+
+* "110% for oxygen masks, 100% for life jackets"
+  Meaning: provide masks for >100% of pax (extra masks). Life jackets just 1 per pax.
+
+LIFE JACKETS
+
+* Required if >50 nm from shore OR T/O/LDG such that ditching is possible
+* One per pax
+* Each must have a light
+
+LIFE RAFTS
+
+* Required if >120 min at cruise speed OR >400 nm (whichever is less) from a landing site
+* Must include 1 spare raft of the largest rated capacity
+
++------------------------------------------------------------+
+| 8. EQUIPMENT THRESHOLDS / CVR & FDR                        |
++------------------------------------------------------------+
+By mass / pax:
+
+≥ 5 700 kg OR >9 pax:
+
+* Airborne weather radar (also required if pressurised)
+* EGPWS / TAWS (Terrain Awareness)
+  ≥ 5 700 kg:
+* Windshield wiper
+* Flight Data Recorder (FDR)
+  ≥ 5 700 kg OR >19 pax:
+* ACAS II / TCAS II
+
+≥ 15 000 kg:
+
+* Flight crew interphone system requirement (cockpit ↔ cabin)
+
+≥ 27 000 kg:
+
+* Flight Monitoring System
+* Flight Data Analysis Programme (FOQA-style monitoring)
+
+CRASH AXES / CROWBARS
+
+* 1 crash axe if >5 700 kg AND >9 pax (kept on flight deck)
+* 2 crash axes if >200 pax (second one aft in the cabin)
+
+ELT (Emergency Locator Transmitter)
+If certified ≤2008:
+
+* ≤19 seats: one ELT (any type is fine)
+* > 19 seats: one automatic ELT OR two ELTs of any type
+
+If certified >2008:
+
+* ≤19 seats: one automatic ELT
+* > 19 seats: two ELTs, at least one automatic
+
+CVR DURATION (Cockpit Voice Recorder)
+Before 1998: 30 min
+1998 → 2021: 2 hours
+After 2021: 25 hours
+
+FDR REQUIREMENT YEARS
+
+* 1990 → Cockpit Voice Recorder mandatory
+* 1998 → Flight Data Recorder mandatory
+  (this is the usual exam memory shortcut; the dates line up with wider mandatory carriage rules for transport category)
+
++------------------------------------------------------------+
+| 9. ETOPS / ALTERNATES / OCEANIC CLR / OEI DISTANCE         |
++------------------------------------------------------------+
+TAKE-OFF ALTERNATE (already covered in Section 5 but repeat here)
+
+* 2-eng non-ETOPS: within 60 min OEI cruise
+* 2-eng ETOPS-approved: within 120 min OEI cruise
+* 3/4-eng: 120 min
+
+WITHOUT ETOPS APPROVAL (diversion range class rules)
+
+* Class A: 60 min OEI
+* Class B/C: 120 min OEI
+
+REQUEST OCEANIC CLEARANCE
+
+* At least 40 minutes before reaching the oceanic entry point
+* Or before departure if leaving from an airport right next to oceanic airspace
+
+MELTING YOUR BRAIN WITH ETOPS ANSWERS
+If they throw "180 minutes" alongside "120 minutes":
+
+* You select 120, because 180 is extended-ETOPS stuff, not baseline take-off alternate planning
+
+PRESSURISATION / MASK DROP TRAP
+"Quick donning required at 25 000 ft"
+"Passenger masks must deploy no later than cabin altitude 15 000 ft"
+
++------------------------------------------------------------+
+| 10. RVSM / CONTINGENCY ALTITUDE OFFSETS / WAKE             |
++------------------------------------------------------------+
+LOSS OF SEPARATION / TURB / WAKE AVOIDANCE VERTICAL OFFSET
+
+ABOVE FL410:
+
+* Climb or descend 1000 ft
+
+AT FL410:
+
+* Climb 1000 ft OR descend 500 ft
+
+BELOW FL410:
+
+* Climb or descend 500 ft
+
+Use that table whenever they ask "what vertical offset should you apply?"
+
+RVSM EQUIPMENT REQUIREMENTS
+
+* Two independent altitude measuring systems (dual ADCs)
+* One altitude alerting system
+* One automatic altitude hold (autopilot)
+* SSR transponder Mode C (altitude reporting)
+
+"I)FR --> (I)ndependent radios"
+Meaning: for IFR in controlled airspace you need independent comm/nav radio capability. They toss this as a trivia bullet.
+
+WAKE TURBULENCE SPACING
+(Repeated from Section 6 because examiners fetishize this)
+
+* Behind a Heavy:
+
+  * Landing behind Heavy landing: land beyond its touchdown
+  * Landing behind Heavy taking off: land before Heavy rotation point
+  * Takeoff behind Heavy landing: rotate beyond its touchdown
+  * Takeoff behind Heavy takeoff: rotate before Heavy rotation point
+
++------------------------------------------------------------+
+| 11. TERRAIN / MOCA / CLEARANCE / OTHER NUMBERS             |
++------------------------------------------------------------+
+MOCA CLEARANCE MARGINS (IFR enroute obstacle clearance mental rule)
+
+* Up to 6000 ft AMSL: MOCA + 1000 ft
+* Above 6000 ft AMSL: MOCA + 2000 ft
+
+EN-ROUTE OXYGEN (pressurised vs unpressurised)
+Handled in Section 7, but note:
+Quick-donning masks compulsory at/above FL250
+Passenger supply must allow continued safe flight and landing
+
+RUNWAY CONDITION REPORT / BRAKING
+(RWYCC matrix shows up in performance/OPS too, but you listed it under Snowtam separately in another message. When they give you braking "1/1/2" vs "4/4/4":
+
+* "1/1/2" → POOR / POOR / MEDIUM-TO-POOR. That is worse.
+* Diversion trigger = worst code, usually "1" or "0".)
+
++------------------------------------------------------------+
+| 12. MANUAL STRUCTURE / ANNEX RESPONSIBILITY                |
++------------------------------------------------------------+
+OPERATIONS MANUAL PARTS (GTA style)
+Part A  = General / Basic company policies
+Part B  = Type specific / Aircraft operating matters
+Part C  = Aerodrome / Route info
+Part D  = Training
+
+Decision trick:
+If it's not type-specific, it belongs in Part A.
+If it's airport-specific, Part C.
+If it's training syllabi, Part D.
+
+ICAO ANNEXES YOU MUST ASSOCIATE
+Annex 1  = Personnel Licensing
+Annex 2  = Rules of the Air
+Annex 6  = Operation of Aircraft
+Annex 10 = Aeronautical Telecommunications / COM
+Annex 17 = Security
+Annex 18 = Dangerous Goods
+Annex 19 = Safety Management
+
+RESPONSIBILITY SPLIT
+
+* Safety management (flight data analysis etc.) = Safety Manager
+* Compliance monitoring = Accountable Manager
+
+ANNEX 6 PARTS
+
+* Part I   = CAT (Commercial Air Transport, aeroplanes)
+* Part II  = GA (General Aviation, aeroplanes)
+* Part III = Helicopters
+
++------------------------------------------------------------+
+| 13. RANDOM HIGH-YIELD TRASH THEY LOVE                      |
++------------------------------------------------------------+
+VFR vs SPECIAL VFR
+
+* Normal VFR vis: 3000 m
+* Special VFR vis: 1500 m
+
+"WINDOW OF CIRCADIAN LOW"
+
+* 02:00-05:59 home-base body clock
+  "Night duty definition"
+* 02:00-04:59
+
+QUICK MASKS / OXYGEN DROP
+
+* Quick-donning masks ≥ FL250
+* Passenger masks must drop by cabin alt 15 000 ft
+
+ELT REQUIREMENT
+
+* ≤19 seats vs >19 seats, certification year cutoff 2008
+  (You already have the table in Section 8)
+
+CABIN CREW MINIMUM
+
+* 1 per fraction of 50 pax seats
+
+FIRE EXTINGUISHERS
+
+* 7-30 seats: 1
+* 31-60 seats: 2
+* 61-200 seats: 3
+* 201-300 seats: 4
+* 301-400 seats: 5
+* 401-500 seats: 6
+* 501-600 seats: 7
+* > 600 seats: 8
+
+OXYGEN QUANTITY
+
+* 110% masks
+* 100% life jackets
+
+"See 1350 click 1350"
+
+* Use this as a mental red flag. When 1350 shows up in an answer set, it's probably the 1350 number. (Examiner fingerprint bait.)
+
+RUNWAY LIGHTING FOR LVP CONTINUE DECENT (VIS REF)
+
+* NPA / APV / CAT I: any runway or approach lighting / markings good enough
+* CAT II: need 3 consecutive lights incl 1 lateral element
+* CAT III fail-passive: need 3 consecutive lights (no lateral element required)
+* CAT III fail-op with DH: need 1 centerline light
+* CAT III no DH (true fail-op autoland/rollout): no visual requirement
+
+MIN RVR / MDA QUICK BLOCK
+
+* Precision: RVR ~800 m, DA/H ~200 ft (generic)
+* Non-precision: RVR ~1500 m, MDA/H ~400 ft
+
+RVR EXAM TROLL
+"CAT 3B (no DH)" ≈ can continue with zero visual ref because rollout guidance is automatic
+
+ALTERNATE MINIMA BRAINWORM
+
+* Take-off alternate: 60 min (twin non-ETOPS) or 120 min (ETOPS twin / 3-4 eng)
+* Destination alternates: may require 2 under some conditions (think: isolated or weather garbage)
+* Planning minima vs Operating minima: planning uses forecast ±1h, operating uses actual
+
+FLIGHT DUTY PERIOD SUMMARY CORE LINES
+
+* FDP basic max 13 h
+* Planned extension = +1 h
+* Commander in unforeseen = +3 h
+* Airport standby = 100% duty
+* Home standby = 25% duty
+* Caps: 60 h / 7 days, 110 h / 14 days, 190 h / 28 days
+* Flight time: 100 h / 28 days, 900 h / calendar year, 1000 h / 12 months
+
+PILOT QUAL LIMITS (MIX OF TYPES)
+Pilot should not operate more than:
+
+* 3 reciprocating engine types/variants
+* 3 turboprop types/variants
+* 1 turboprop + 1 piston type/variant
+* 1 turboprop + any class of aeroplane
+  (So basically you can't be rostered on five random museum pieces at once)
+
+RECENCY 90-DAY RULE
+
+* 3 T/O + 3 LDG + 3 approaches in last 90 days for CAT pax ops
+* IFR recency and night recency live inside that same 90-day logic
+  They hit this nonstop
+
+RUNWAY CONTAMINATION / RWYCC LINK
+
+* RWYCC 6 = DRY
+* RWYCC 5 = GOOD
+* RWYCC 4 = GOOD-MEDIUM
+* RWYCC 3 = MEDIUM
+* RWYCC 2 = MEDIUM-POOR
+* RWYCC 1 = POOR
+* RWYCC 0 = NIL
+  "1/1/2" is worse than "4/4/4"
+
+RVSM OFFSET TABLE (EMERGENCY / WAKE / TURB)
+
+* Above FL410: ±1000 ft
+* At FL410: +1000 ft or -500 ft
+* Below FL410: ±500 ft
+
+MOCA TERRAIN GUARANTEE
+
+* MOCA +1000 ft up to 6000 ft AMSL
+* MOCA +2000 ft above 6000 ft AMSL
+
+GTA MANUAL PARTS (AGAIN, BECAUSE THEY WILL ASK)
+A = General
+B = Type specific
+C = Aerodrome / Route
+D = Training
+
+LANDING / TAKEOFF FLAPS (TRICK MEME FROM TYPE QUESTIONS)
+
+* Landing: Flap 30
+* Takeoff: Flap 10
+  This is airline-type-specific in real life. If they ask in a "generic" ATPL question, it's reportable because it's type-specific, but exam still recycles it. Keep it in back pocket.
+
+"MR FLATT"
+Missed approach
+Rollout
+Flare
+LAND
+Approach
+Takeoff
+Taxi
+This is LVO procedures the operator must cover.
+
+END

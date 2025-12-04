@@ -1,0 +1,9 @@
+= Instrumentation - Community Learning Materials
+
+:page-nav-title: = Instrumentation - Community Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249455242772490[#inst-learning-materials]
+====

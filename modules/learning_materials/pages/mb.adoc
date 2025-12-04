@@ -1,0 +1,9 @@
+= Mass & Balance - Community Learning Materials
+
+:page-nav-title: = Mass & Balance - Community Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249327928344626[#mb-learning-materials]
+====

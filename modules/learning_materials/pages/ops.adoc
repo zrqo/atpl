@@ -1,0 +1,52 @@
+= Operational Procedures - Community Learning Materials
+
+:page-nav-title: = Operational Procedures - Community Learning Materials
+:page-description: Curated links, PDFs, notes, and study aids contributed by ATPL student community members.
+
+====
+Original discussion channel:
+link:https://discord.com/channels/823542587301429248/824249507172450356[#ops-learning-materials]
+====
+
+== External Resources
+[cols="20%,80%"]
+|===
+| Submitter | Link & Description
+
+| ICAO (EUR/NAT Office)
+| Folder of EUR/NAT documents, including the *North Atlantic Operations and Airspace Manual (NAT Doc 007)*. Hosted by the ICAO EUR/NAT Office. Latest authoritative source. +
+https://www2023.icao.int/EURNAT/Pages/EUR-and-NAT-Document.aspx +
+
+| Anonymous
+| OPS notes folder shared by an anonymous user. Aug 2022. +
+https://drive.google.com/drive/folders/1WYnaW8cULTU7scpglDsvrs6ov6Cq9R8I
+
+| eliottlerouge
+| OPS notes compiled by Eliott Johnson. Shared Nov 2023. +
+https://drive.google.com/file/d/1nbI31i1gpookKBeA7dBLNjTU8DfVyrEx/view?usp=sharing
+|===
+
+== Files stored locally
+[cols="20%,80%"]
+|===
+| Submitter | Description & File
+
+| Anonymous
+| xref:attachment$ops/anon_ops_notes.pdf[*anon_ops_notes.pdf*] – Key notes for OPS from a former contributor.
+
+| Anonymous
+| xref:attachment$ops/anon_ops_notes2.pdf[*anon_ops_notes2.pdf*] – More OPS notes from another former contributor.
+
+| cptairman
+| xref:attachment$ops/cptairman_ops.pdf[*cptairman_ops.pdf*] – OPS notes compiled by CPTairman.
+
+| eliottlerouge
+| xref:attachment$ops/eliott_johnson_ops.pdf[*eliott_johnson_ops.pdf*] – OPS notes shared by Eliott Johnson.
+
+| mad3250
+| xref:attachment$ops/mad3250_ops.txt[*mad3250_ops.txt*] – Text-format OPS notes shared by mad3250.
+
+| zinnieminnie
+| xref:attachment$ops/zinnieminnie_ops_numbers.pdf[*zinnieminnie_ops_numbers.pdf*] – OPS numeric reference notes shared by zinnieminnie.
+
+|===
