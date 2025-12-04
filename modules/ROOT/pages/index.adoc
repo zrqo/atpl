@@ -15,7 +15,9 @@ This site runs on a FreeBSD jail so ZFS snapshots can be provided on request.  I
 == To do
 
 * [x] Add CAPs
-* [ ] Link annexes to BAZL 
+* [x] Link annexes to BAZL 
+* [ ] EASA documents
+* [ ] EEA/UK law
 * [ ] set content url source to github
 * [ ] about / contribute / download pages
 * [ ] main menus
